@@ -1,1 +1,1 @@
-Location of files stored
+Location of files stored for public viewing
