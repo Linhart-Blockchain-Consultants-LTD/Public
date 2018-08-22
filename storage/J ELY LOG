@@ -1,0 +1,2824 @@
+
+[12:05:40 PM] Jesse:
+Hey Troy, did KJ send you over the Scope of Work from this security company that contacted us?
+If not, I'd like to email this to you to see if you think it's worth what they're charging.
+This department is a foreign language to me.
+[12:24:16 PM] Troy:
+Hey Jesse, KJ did get in touch about the pentesting quote, I do think the pricing is quite high for the work being done, I've also run into a few issues verifying if ”Pervade Security” is connected to ”Pervade Software” and their website is very plain and lacks any info to help. www.pervadesecurity.com/
+
+Iv’e floated an idea to Leo that could let us assign one of our Certified Penetration Testing Engineers to the existing team and have them perform the pentesting for no extra cost and am waiting to hear back from him
+Pervadesecurity
+Pervade Security | Pervade Security
+Cyber Security Services
+The reason im wanting to verify they arent connected to Pervade Software is the following
+
+“Under US law, it would likely be illegal for a private company to use Pervade's products or similar ones to launch counter-attacks. The same goes for the UK: a counter-attack, such as a DDoS, would probably be breaking the law.”
+
+https://motherboard.vice.com/en_us/article/newd88/this-uk-company-is-making-it-easier-for-private-companies-to-hack-back
+Motherboard
+This UK Company Is Making It Easier for Private Companies to 'Hack Back'
+As the US considers legislation that would allow companies to strike-back against hackers, a UK firm is already making that step a little bit easier.
+while this clearly isn't the services we've been approached for, they have a bad standing within the community because of the above, and so im making sure that this ”Pervade Security” isn't connected to the ”Pervade Software”
+[12:29:11 PM] Jesse:
+Thanks for sharing. I mean, they want the equivalent of 48,000 USD in our tokens for 60h of work which is basically like one week of work.
+I also don't even know if they fix the problem, I think they may just identify it.
+[12:32:55 PM] Troy:
+Yeah KJ said it was like $32k, depending on which tier of ICO pricing you use, They wont fix them from what I've read, they’ll highlight the issues, give you time to fix them and then run a second test to ensure the problems resolved, That is pretty standard for an external pentesting job, but the pricing is still excessive.
+[12:34:22 PM] Jesse:
+Are you aware of any businesses that are capable of both identifying and fixing the issues?
+To be honest I feel like there's no sense of urgency from the team here for this issue and it's concerning to me because all our hard work goes down the drain with one detrimental attack.
+[12:40:59 PM] Troy:
+Yeah thats unfortunately not uncommon, It’s usually not a priority untill its too late.
+
+We can assist with Remediation Assistance, When our pentesters find issues in your environment, you can speak with them and discuss actionable remediation steps to fix your environment. Everyone else will just give you the results and that’s it.
+
+Most reputable pen testing organizations function like this, Its when they are looking to dump info that wont make sense to anyone within the company and take a hands off approach to remediation that alarm bells start going off for me.
+It's very very very easy to detect issues and problems in security, Its a completely different game actually understanding the issues and problems and turning that into something actionable
+[2:01:01 PM] Jesse:
+Fair enough
+So what course of action would you specifically recommend?
+edited 
+[2:08:54 PM] Troy:
+I’d say it’s too overpriced and I doubt they’ll come down to the levels that would be acceptable.
+
+Not being able to gauge their previous work or clients also doesn’t help sow confidence.
+
+I’m waiting for Leo to get back to me about us handling the Pentesting without an increase in our fee, We’d been speaking about adding an additional team member and I think that’s the best course of action as it’s not going to cost you an arm and a leg, and we’ve currently got pentesters unassigned and ready to be deployed.
+
+And after they’ve completed the pentesting they would augment our current staff, bringing the number deployed on Elysian from two staff up to three which consists of 2 security engineers and one support staff.
+[3:21:32 PM] Jesse:
+Ok I see
+I can't make that call for Leo but I can speak with him about it.
+[4:05:29 PM] Jesse:
+Is this a threat?
+I confirmed with Leo as I'm sitting right next to him that it wasn't him.
+[5:33:25 PM] Troy:
+Shouldn’t be an issue, that domain is a well know spam/phishing domain, surprised it got through the filters
+Will keep an eye on it, what’s the current arrangements for the wallet? Is it hardware based or a multi sig wallet?
+[5:34:37 PM] Jesse:
+Hardware
+[5:35:41 PM] Troy:
+This is a social engineering attempt that would go like this.
+
+“Hey just wanting to confirm the amount in the wallet”
+
+You respond with some info
+
+They respond
+“Is this the right private key?  xxxxxxxxxxxxxxx”
+
+Then, you wouldn’t, but they’d hope you’d reply correcting them with the real private key
+[5:36:22 PM] Jesse:
+I see
+People must be idiots
+[5:38:11 PM] Troy:
+Only reason it slipped the spam filter is the name I’d say, emails from that @post.com address have been used for Nigerian scams since the early days of the internet and yeah, people are idiots.
+
+http://ww8.post.com/?gkwrf=http://www.post.com/
+Copyright :copyright: 2001-2008 NeuStar, Inc.
+All Rights Reserved
+Yeah, that’s an old one for sure
+[5:39:08 PM] Jesse:
+Thanks for the briefing it’s nice to have you around.
+[5:40:46 PM] Troy:
+I’ll submit a request to have the mailbox taken down, honestly don’t know if it’ll work as I doubt anyone’s still around to answer support emails, considering they haven’t renewed the copyright since 08
+And no problem! It’s little things like this that we are here for, helping provide guidance and advise while answering any questions and concerns
+[5:43:27 PM] Jesse:
+We appreciate it. Stay in touch.
+
+--- Wednesday, May 30, 2018 ---
+[10:15:53 AM] Troy:
+Hey Jesse, I'm still trying to get in touch with Leo about the pentesting, With only five days left, 2 days for the testing is leaving 3 days for remediation, and thats if he gets back to me today and makes the arrangement, if you get a chance to speak with him let him know to get in touch.
+[10:41:56 AM] Jesse:
+Ok what do you charge and what is the scope of work?
+[10:54:05 AM] Troy:
+We would conduct Pentesting without an increase in our fee as I’ve discussed with Leo, like we did for the smart contract audit, and the scope would mirror that of the previous pentesting requested by Elysian, except the timeframe would be drastically reduced and remediation given more priority.
+
+If it gets to close to the public sale, We won’t be able to complete the work needed.
+[10:59:49 AM] Jesse:
+So basically you need to start today?
+I’ll speak with him shortly
+[11:00:16 AM] Troy:
+Or tomorrow, 2+3 is tight turnaround
+2+2 and I’ll owe someone some favors
+[11:00:41 AM] Jesse:
+Hah I see
+And I don’t know how pentesting works, the site will still be accessible in the middle of the testing?
+edited 
+[11:05:24 AM] Troy:
+I remember there’s no testing environment so we would conduct testing on the live site, We don’t conduct testing that would render the website inaccessible or slow it down when, The average user will have no clue testings being performed, those who manage the website may notice notifications or other alerts as we aren't conducting a red vs blue test.
+[11:08:02 AM] Jesse:
+I see
+if this is something you would absolutely recommend then I'll speak with Leo in about an hour and make sure it gets done.
+Security is a foreign language to me I have no idea about it.
+[11:12:50 AM] Troy:
+We weren't aware the dashboard and website hadn't been tested until We were asked to review the SOW from the other company, Its something that really needs to be done.
+
+He should have an email with more details about this and Twitter verification, Ill be available for sometime today so feel free to ping me, and if you ever have any security questions feel free to ask
+[11:14:26 AM] Jesse:
+I'm speaking with him now, I think he also just asked you a question himself.
+I think he's worried about the cost because he mentioned something before about a 5k charge. If it was included in the scope of work I would say get started immediately.
+Ok he explained it to me
+Troy can you verify the charges for me?
+[11:28:33 AM] Troy:
+$5,000 which is 10% of our Service Fee as stated in the Service Agreement we have.
+[11:29:09 AM] Troy:
+Forwarded message: 
+Troy Linforth [May 30, 2018 11:24:25 AM] 
+The invoice We've sent you shows theres no charge for the additional team member and penetration testing, The only line item is a Service Fee Part Payment.
+It will be needed to increase the team from whats in the service agreement so We can take care of this and have extra hands onboard during the ICO.
+[11:29:29 AM] Jesse:
+Ok here's my issue and I'm being 100% honest
+We've put basically everything we have back into marketing. We have a few pending investors and will get money at the start of the public sale but we can't give 5,000 up front today unless one of our whale investors confirms.
+We could give it at the absolute latest in like a week if worse came to worse.
+Is there any way we  can construct a contract to guarantee you get your money in no later than 7 days?
+[11:38:07 AM] Troy:
+I’ll need to get back to you on this and then ill send a revised invoice with the due date set for 7 days from now, that'll allow it to be taken care of inside the next week
+[11:38:55 AM] Jesse:
+That's fine. I would greatly appreciate it if we could come to an agreement on this because we definitely need the work done and the money will get paid within the timeframe.
+
+--- Thursday, May 31, 2018 ---
+[6:49:52 AM] Troy:
+Hey Jesse, I’ll send the invoice to be paid within 7 days today and we’ll begin the work immediately :+1:🏻
+[8:58:46 AM] Jesse:
+Send this to Leo also
+[9:03:59 AM] Troy:
+I’ve already got Leo’s email can I grab yours and I’ll cc you on it
+[9:05:02 AM] Jesse:
+jesse@elycoin.io
+Thanks
+[11:41:21 AM] Jesse:
+Ok so
+Will you need access to the dashboard for the pentesting?
+Also if the site goes down will someone be there to bring it back up ASAP?
+Just a few small details the core team wants to know.
+[11:57:28 AM] Jesse:
+In your opinion, what else do we need to be as secure as possible for the start of the public sale?
+I'm just running through this invoice with Leo in about 1-2h and we will get it over to you.
+edited 
+[12:03:55 PM] Troy:
+We won’t need credentials to the dashboard, everything done is done as an external user would attempt. If we need credentials we will notify you of that during the testing.
+
+We won’t conduct any tests that could take the site offline if successful, if we notice any instability we would cease and report it immediately.
+edited 
+Other then the this and the four points for twitter verification, everything else is covered
+[12:07:24 PM] Jesse:
+Got it thanks
+edited 
+[12:11:22 PM] Troy:
+I’ll be available for the next 6 - 12 hours as I’m overseeing two deployments today and tonight so if you have any questions please feel free to ping me if you need, I’ll be on for sometime
+[12:14:35 PM] Jesse:
+Perfect thanks for making yourself accessible.
+[1:20:15 PM] Jesse:
+The guys just want to know one last thing, if you guys can help us if the site does go down.
+For example if Levon is asleep
+We can't have it offline for like 7-8 hours we'll lose 500k or more
+[1:23:16 PM] Troy:
+Yeah if you want to email me a set of login credentials for if we need to help with the site, I highly doubt we will need to use them as we won’t be aiming to disrupt the site like that
+Someone will be available 24/7 to tend to any issues should they arise
+[1:24:29 PM] Jesse:
+Ok perfect that's exactly what I wanted to hear
+I'll sign it and send it over
+One last thing
+The guys are requesting a new picture from you for the website
+actually there's no place to sign anywhere on the invoice but it's fine we'll send anyway
+in 7 days i believe it was
+within 7 days
+You can start as soon as you're able to
+[1:28:33 PM] Troy:
+Yes within 7 days, if you or Leo could reply to the email accepting the invoice terms and providing a set of login credentials also, we’ll get started right away :+1:🏻
+[1:28:45 PM] Jesse:
+ok
+[1:29:27 PM] Troy:
+And who needs the new photo? I’ll send them to them today
+[1:29:40 PM] Jesse:
+you can just send it to me that's fine
+thanks
+what do you need exactly as far as login credentials?
+[1:35:58 PM] Troy:
+Login details used for starting, stopping and restarting the site, that’s all we will need if the site was to go down.
+Address:
+Username:
+Password:
+
+If a separate account can be made for the testing that would be the best route
+[1:46:10 PM] Jesse:
+Levon said check your slack
+He's going to give you the details
+Let me know if you're speaking with him
+It's late at night in LA where Levon is so we need him to get the details  to you before he sleeps.
+[1:51:33 PM] Troy:
+We are, I’ll include the login details in a follow up email confirming what we’ve spoken about
+[1:52:01 PM] Jesse:
+Ok then I can just respond to the email with the invoice accepting the terms then
+sent
+[2:33:40 PM] Jesse:
+You received the confirmation email?
+I need to know so I can tell this other company we don't need them.
+[2:35:31 PM] Troy:
+I did :+1:🏻
+and we’ve got the login details we need
+[2:55:21 PM] Jesse:
+nice
+thanks
+
+--- Saturday, June 2, 2018 ---
+[4:17:46 PM] Jesse:
+How is everything progressing? Are you on pace to finish before the public sale begins?
+[4:22:55 PM] Troy:
+Everything’s on track to be completed before the token sale begins, We will give a brief overview in the next few days of any issues found but from my last check in with the team nothing had come up during testing so far
+great job with the advertising :+1:🏻
+[4:25:41 PM] Jesse:
+Thanks for the update
+Thanks, we're doing our best ...
+
+--- Sunday, June 3, 2018 ---
+[4:31:16 AM] Troy:
+Hey Jesse, I’ll make sure to CC you and Leo in on the report when it has been prepared. When the payments made on that invoice could you please make sure to email admin@linhartblockchainconsultants.com with the TX ID so We can get you a receipt.
+also have a few security tips for the team;
+Security tips for the ICO going live.
+
+Watch out for weird emails and links.
+Check everything, twice.
+Hardware wallets are the only secure wallets.
+Use App based 2FA not SMS.
+Personal accounts should be secured the same as enterprise accounts
+
+for any security issues you can email 24/7
+admin@linhartblockchainconsultants.com
+[9:56:43 AM] Jesse:
+Ok gotcha thanks
+
+--- Monday, June 4, 2018 ---
+[10:19:19 AM] Troy:
+Hey Jesse, We’ll be sending the preliminary report in the next few hours, nothings been discovered that should raise any concerns, We’ve sorted out the Twitter verification and will ensure that’s done within the next few days
+[12:13:27 PM] Jesse:
+That’s wonderful news
+[11:40:59 PM] Jesse:
+Any particular reason why there's a balance of 131 USD in the etherscan?
+I thought you may know the answer to this
+it was saying 0 the whole time
+
+--- Tuesday, June 5, 2018 ---
+[12:00:16 AM] Troy:
+?
+On the token smart contract?
+[12:00:36 AM] Jesse:
+yes
+there was 245 transactions and it wasn't showing the amount, and i'm assuming it was private or something
+and then just now a few transactions happened and now the amount is visible
+[12:01:21 AM] Troy:
+It says $315 right now, and it’s been at 0 before that
+[12:01:36 AM] Jesse:
+yes but all of those transactions occurred without the amount being visible
+and now the last 3 messages are showing up in the balance
+[12:04:03 AM] Troy:
+I’m not sure why it’s doing that, looks like it hasn’t transferred out yet
+https://etherscan.io/address/0x9f5de779b3509659c4c873029d0d4d929d261583#internaltx you can see the last ones awhile ago
+etherscan.io
+Ethereum Accounts, Address and Contracts
+The Ethereum BlockChain Explorer, API and Analytics Platform
+[12:07:51 AM] Jesse:
+hmmm
+i mean i just don't know if they screwed up the smart contract somehow
+i wouldn't be surprised
+[12:11:32 AM] Troy:
+Just confirm that your address that you wanted the funds going to is this one 0x56296ba95964DE8C9361bf6918eF4Fa1f7610E6F and it’s fine, it should cycle out shortly, If I have some time I’ll take a look over what we audited and make sure it’s what’s been used but I highly doubt it’s been altered in anyway
+There are the errors still
+I think those top three will also fail
+[12:13:39 AM] Jesse:
+jesus christ
+any idea why?
+[12:14:08 AM] Troy:
+If what loan said earlier is true
+[12:14:24 AM] Troy:
+Forwarded message: 
+Ioan Hategan [Jun 4, 2018 8:25:20 PM] 
+Some transactions fail because people are not inputing the additional Data field number
+[12:14:34 AM] Troy:
+Then is just that it wasn’t told to people before hand
+The medium that went out didn’t include those instructions
+[12:15:57 AM] Jesse:
+Ioan wants you to take a screenshot of Metamask
+Where it says to enter the data field
+Neither of us have Metamask
+[12:17:30 AM] Troy:
+[12:18:01 AM] Jesse:
+thank you
+[12:20:11 AM] Troy:
+Download MetaMask even if you don’t use the wallet. Just having it installed you’re protected by a community managed blacklist and whitelist that organisations like us help to maintain.
+[12:21:12 AM] Jesse:
+I see, thanks for the advice.
+[12:23:40 AM] Troy:
+There’s 13 pending from one guy, he’s not having any luck at all, there’s also these that have started coming in
+[12:25:21 AM] Jesse:
+yeah i see
+i don't really know what to say
+Applicature is the biggest joke ever imaginable
+Leo and Ioan are losing their mind right now over these guys
+we all are
+[12:58:37 AM] Troy:
+It’s still building up on the main address
+[12:58:48 AM] Jesse:
+yeah i know
+applicature doesn't know why
+can you imagine that?
+their initial quote was 2 million
+for their services
+they're not even worth 2 dollars
+it's fine, we will bury them
+but we have quite the predicament at the moment
+[1:01:57 AM] Troy:
+Yeah it’s not worth that much when this is the support and product your getting
+The need to get things in order for the public sale.
+[1:03:27 AM] Jesse:
+yeah but there's an even bigger problem
+whatever hype we had is now lost
+some of it
+they will not fix the problem
+we have to find another company that can take over
+do you by chance know one?
+[1:08:28 AM] Troy:
+What exactly what applicature handling?
+[1:09:04 AM] Jesse:
+dashboard and smart contract
+[1:13:33 AM] Troy:
+So basically what’s running on https://tge.elycoin.io
+
+The smart contract developer side of things we might be able to do something about but I’ll need to take a good look at if we could find someone for the dashboard
+[1:14:45 AM] Jesse:
+It's a disaster
+[1:23:11 AM] Troy:
+At least it’s now during the pre tge
+[1:29:25 AM] Jesse:
+I'm glad you're optimistic
+[1:35:24 AM] Troy:
+Loan is the one to talk to about the dashboard and website?
+[1:46:13 AM] Jesse:
+Not at all
+Either Leo or Levon
+[1:51:02 AM] Troy:
+Alright I’ll speak with Levon about the dashboard, and get back to you about the smart contract
+[10:06:57 AM] Troy:
+Any word as to if the eth sitting on the smart contract is going too move out ?
+I can see it hasn’t overnight
+[11:02:51 AM] Jesse:
+nope it's still in there
+no one has any clue what they're doing
+I know Leo took a call with them at like 3am last night here but I guess it wasn't solved
+[12:11:08 PM] Troy:
+so we can source a replacement dashboard that provides;
+
+ICO investors sign up.
+Generation of Ethereum address upon user activation.
+KYC verification.
+Token purchase.
+Displaying Investor's transaction history.
+All important actions are protected with 2FA (email or google authenticator) by integration with Backend Verify service.
+
+its an open source dash thats been widely used, let me know if you want more details on it
+[1:55:11 PM] Troy:
+let me know if you want me to put you in touch with them
+[2:05:43 PM] Jesse:
+Alright I'll have to ask Leo
+[4:37:50 PM] Troy:
+Hey Jesse if that invoice could be sorted out today that would be great, it would be best not left till the last minute with how busy things are right now.
+
+We've spoken with the team that audited the smart contract and they are available to assist if needed
+
+have you gotten an update from Leo or applicature on the issues and what can be done ?
+[4:53:37 PM] Jesse:
+Don't worry Troy we will pay you
+You will get it shortly
+They are speaking right now
+Leo and Applicature
+[4:55:05 PM] Troy:
+Alright feel free to update me once you know something , ill be on for quite some time today
+[4:57:13 PM] Jesse:
+gotcha
+[5:52:21 PM] Jesse:
+https://docs.google.com/forms/d/e/1FAIpQLSd05bA0P3fyRn46lWCEF9pJ26K-G0iA79QQodvtQQu2nOQXNA/viewform
+Google Docs
+A decentralized platform to build Ecommerce websites on the blockchain
+Secure data storage and unprecedented user experience to create trust between businesses and consumers
+Nadine said we never created this
+[5:54:21 PM] Troy:
+ill get that taken care of
+where did that come from?
+https://etherscan.io/address/0xe13467e36561606a821fb7ecd72bfce8f70648f9
+etherscan.io
+Ethereum Accounts, Address and Contracts
+The Ethereum BlockChain Explorer, API and Analytics Platform
+[5:58:19 PM] Jesse:
+what is this?
+[5:58:49 PM] Troy:
+thats the address is shows as the fake contribution address
+on that google doc
+[5:59:11 PM] Jesse:
+uh oh
+[5:59:52 PM] Troy:
+its another well known scammer holding account
+[6:00:15 PM] Jesse:
+is that all from elysian?
+please say no
+[6:03:24 PM] Troy:
+no, its been running for around six months this account
+ill look over and see if i can tally up how much if any they got from Elysian
+where was this google doc found ?
+[6:09:35 PM] Jesse:
+Nadine [5:39 PM]
+So a person called David reached out to me and told me that Ioan Hategan sent him this document yesterday
+and "Ioan " wrote this David back saying " sorry your transaction did not get through please try to send more money!
+[6:13:12 PM] Troy:
+wow, the ingenuity never surprises me, the lengths some will go to try and scam is beyond me
+[6:42:04 PM] Jesse:
+http://bit.ly/elycoinicolive
+[6:43:55 PM] Troy:
+edited 
+doesn't load for me
+edited 
+[6:59:04 PM] Troy:
+is that another scammer ?
+[7:52:02 PM] Jesse:
+nadine said it isn't there anymore so maybe it got deleted
+We will send you the money tomorrow Leo said
+[7:59:42 PM] Troy:
+if it comes back up make sure to let me know :+1:🏻
+
+--- Wednesday, June 6, 2018 ---
+[12:54:54 AM] Troy:
+Did the applicature team make some changes ?
+[12:55:12 AM] Jesse:
+yes
+[12:58:17 AM] Troy:
+Yeah We detected the changes and just wanted to check.
+[1:03:11 AM] Jesse:
+thanks for the update
+[11:33:41 AM] Troy:
+Keep your eye out for emails like this
+And if you could check your spam to see if you’ve received anything similar
+[11:45:56 AM] Jesse:
+sure thanks for checking
+what's your eth address
+its in the invoice right?
+edited 
+[11:46:39 AM] Troy:
+Yeah its attached to the invoice
+edited 
+if you do find anything weird in your email dont open it on PC, just screenshot the spam folder contents and forward us the photo
+[11:51:09 AM] Jesse:
+would you recommend some sort of security for personal passwords besides 2FA and long arbitrary passwords for every website?
+[11:56:57 AM] Troy:
+Those two steps should be fine along with the tips i provided earlier, SMS 2FA should be avoided, App based 2FA is more secure and can be shared among those needing 2FA access.
+
+use longer arbitrary passwords when the site has no 2FA option (its rare but happens).
+Everythings been locked down pretty well, LastPass for Enterprise and Authy for 2FA are a good combo
+[11:59:57 AM] Jesse:
+i see
+[1:17:52 PM] Jesse:
+you should have received the funds
+[1:40:12 PM] Troy:
+i do believe its been received, a receipt will be provided shortly
+[1:56:23 PM] Jesse:
+Troy I have a very big concern I have to ask you about
+Even though we got a big private investment in yesterday, the statistics are not adding up. Let me explain.
+We 're getting about 10k a day in transactions, sometimes it goes a few hours without a transaction.
+Lots of WAY WORSE projects than us are receiving much more money so here's my concern:
+What if people are sending the money to a wrong address? Or what if Applicature went into the smart contract and changed something to where they receive funds?
+We get way too many whitelisters each day for there to be so few investments in our smart contract address
+It doesn't add up
+Our project is everywhere over the internet we have 50-100 youtube videos, marketing on all the largest sites
+I'm very concerned that something went wrong
+For example what if Applicature put a function in the smart contract that every 3rd transaction goes to us and the others go to them?
+Especially because we screamed at them for their early mistakes.
+[2:02:49 PM] Troy:
+ill take another look at our monitoring but if any changes like that took place we would detect it, but somethings been off since the start i agree with that
+ill get back to you ASAP on this
+[2:03:09 PM] Jesse:
+I guarantee you something is not adding up
+We raised more money in 5 mins in one pool than in pre-tge transactions aside from the large fiat investment last night
+Something is wrong
+[2:54:49 PM] Jesse:
+People are sending Nadine emails asking when they get their tokens
+I mean that could be a scam also but
+[3:01:10 PM] Troy:
+do they provide any tx details ?
+[3:01:47 PM] Jesse:
+Check slack
+Nadine will message you shortly
+She said a guy invested 9 Eth and it’s shown in the dashboard but we didn’t receive it
+[3:23:42 PM] Troy:
+awaiting her message, ill let you know what we find
+
+--- Thursday, June 7, 2018 ---
+[12:05:19 AM] Jesse:
+Hey can you send me your report of the testing you did on our website?
+[12:24:02 AM] Troy:
+I've had that sent and the receipt
+> Jesse Brandenburg
+> I guarantee you something is not adding up
+and we haven't found anything as of yet
+will keep you updated
+[12:24:43 AM] Jesse:
+Oh, was it sent to Leo?
+[12:25:53 AM] Troy:
+I think it would of been among the emails sent to Leo but ive had copy sent to you
+:+1:🏻
+[12:26:39 AM] Jesse:
+Do you mean right now or before?
+oh ok, got it
+thx
+
+--- Monday, June 11, 2018 ---
+[1:45:16 AM] Troy:
+> Jesse Brandenburg
+> For example what if Applicature put a function in the smart contract that every 3rd transaction goes to us and the others go to 
+Hey Jesse, We haven't found any issues like this with the smart contract, is this still of concern as we may have one other possibility that is currently unexplored
+[5:40:30 AM] Jesse:
+Alright
+
+--- Sunday, June 17, 2018 ---
+[2:59:48 AM] Troy:
+> Jesse Brandenburg
+> She said a guy invested 9 Eth and it’s shown in the dashboard but we didn’t receive it
+Hey Jesse, I haven’t had Nadine get in touch about this, is this still an issue or not ?
+[7:22:51 AM] Jesse:
+I’ll have to ask her
+
+--- Tuesday, June 26, 2018 ---
+[6:21:14 PM] Troy:
+Hey Jesse, In the next few days we will send the finalized invoice along that will be due after the 8th when the TGE finishes.
+
+I'll be reaching out to Leo for one when we speak about our ongoing role, But i wanted to see if we could grab a quote or comment about our service during the TGE to use for future marketing.
+[7:07:44 PM] Jesse:
+Alright I’ll speak with him
+
+--- Wednesday, June 27, 2018 ---
+[4:52:44 PM] Troy:
+Hey Jesse I've sent that email onto you now, The invoice is due after the 8th but can be taken care of at any point, The eariler its taken care of the better for Elysian as if ETH continues downwards it'll increase the ETH needed to meet the payment amount.
+
+We don't want Elysian having to pay more ETH then is required to currently meet the payment amount invoiced.
+If you and Leo could get back to us with the quotes when possible that would be great :+1:🏻
+
+--- Monday, July 2, 2018 ---
+[11:20:15 AM] Troy:
+Hey Jesse I’ll be getting a quote from Leo when we sit down for our call this week, If you could email me something from yourself about your services during the ICO when you have time it would be greatly appreciated :+1:🏻
+[11:57:49 AM] Jesse:
+What exactly do you mean?
+[12:03:53 PM] Troy:
+Just a quote or comment in regards to our services during the ICO, We are just putting together our AAR and Public Report and wanted to include a comment from at least Leo and yourself on the quality of our services or any other feedback that you’d be able to provide
+[1:12:46 PM] Jesse:
+Ah ok I see
+I’ll take care of this shortly
+[2:45:05 PM] Troy:
+Thanks We are looking to have our AAR and Public report ready before the 8th to go out after the ICO ends
+[7:32:18 PM] Jesse:
+Oh ok
+We actually want to wait to give all reviews and payments until the original projected end of TGE after speaking internally
+Anything done prematurely may have potential consequences
+[8:23:11 PM] Troy:
+Understandable, Alright well on our end of things for the AAR and Public report will be just awaiting those before we publish them, Look forward to receiving them after the 8th :+1:🏻
+[8:25:49 PM] Jesse:
+Sounds good Troy
+
+--- Tuesday, July 3, 2018 ---
+[5:40:47 PM] Troy:
+Hey Jesse our systems flagged a large transfer of ELY to an address we don’t have listed as an Elysian affiliated address, the teams pretty sure it’s nothing but wanted to check to make sure all is good there.
+
+https://etherscan.io/address/0x241d6629d4ab41d7c04362536b2f6cd49894e05d
+etherscan.io
+Ethereum Accounts, Address and Contracts
+The Ethereum BlockChain Explorer, API and Analytics Platform
+https://etherscan.io/tx/0x0fb7800912a25f06b8b1a51307c68b1eb0a1b11b38ac63206397db8bbf74eeaa
+etherscan.io
+Ethereum Transaction 0x0fb7800912a25f06b8b1a51307c68b1eb0a1b11b38ac63206397db8bbf74eeaa
+Ethereum (ETH) detailed transaction info for 0x0fb7800912a25f06b8b1a51307c68b1eb0a1b11b38ac63206397db8bbf74eeaa
+[5:43:28 PM] Jesse:
+Let me check this when I get home in about 90 mins thanks for the heads up
+[8:04:38 PM] Jesse:
+These are the addresses holding the 120m ELY
+that will be released for every client we sign
+[8:06:36 PM] Troy:
+Alright I’ll have them updated as belonging to Elysian, Thanks for the info
+[8:07:14 PM] Jesse:
+sure
+
+--- Friday, July 6, 2018 ---
+[2:59:46 PM] Troy:
+Hey Jesse, Here’s the draft of our AAR https://medium.com/@LinhartUK/elysian-aar-7346e5ff6c67
+Medium
+Elysian Token Sale AAR
+After Action Report for the Elysian ICO
+That and our other reports will go live after the 8th :+1:🏻
+[11:08:06 PM] Jesse:
+Got it thanks
+So what are the best practices to prevent our smart contract from being hacked when we get listed?
+[11:46:16 PM] Troy:
+You shouldnt have any issue during the listing period, the period to watch will be the Airdrops being release, Typically the investors during the ICO have better security then those getting the free Airdrops, often we see keys leaked and peoples airdrops stolen and then collected
+making sure they know how to stay safe can avoid those issues
+
+--- Saturday, July 7, 2018 ---
+[12:26:26 AM] Troy:
+> Jesse Brandenburg
+> So what are the best practices to prevent our smart contract from being hacked when we get listed?
+While our contract is up until the 8th, Our services and systems will be staying in place as per the converstation I've had with Leo, We want to make sure the exchange listings, airdrop, and beyond are secure and smooth for the team
+[12:32:47 AM] Jesse:
+Thats perfect we will need you
+I appreciate the help
+Running an ICO is like walking through a minefield
+Especially given the current market conditions
+[12:35:40 AM] Troy:
+Yeah we reassured Leo that we aren’t looking to get our invoice filled and then off we go like most, Ongoing support and assistance is something that’s really helpful and we aren’t going anywhere anytime soon.
+Yeah we reassured Leo that we aren’t looking to get our invoice filled and then off we go like most, Ongoing support and assistance is something that’s really helpful and we aren’t going anywhere anytime soon.
+Yeah we reassured Leo that we aren’t looking to get our invoice filled and then off we go like most, Ongoing support and assistance is something that’s really helpful and we aren’t going anywhere anytime soon.
+[12:48:41 AM] Jesse:
+Well we certainly appreciate that
+[12:53:27 AM] Troy:
+The next 2 big dates will be the 10th and the airdrop date, Those will both bring scams and issues
+Be ready for lots of “to celebrate exchange listings we are doing a giveaway”
+And from our investigation and the way the bounty has been done, We are expecting that a portion of users will lose their tokens
+^ explaining this as it’s been explained to me.
+
+This bounty here —> https://bitcointalk.org/index.php?topic=3332920.new
+
+The way that users have been confirming their activity gives malicious users the ability to gather data on who’s signed up, their respective social media’s and emails, their ETH addresses and more. From their it’s the least secure ones who fall victim, those with private keys stored in notes in the cloud etc
+We aren’t estimating that many users will be caught up in this, but it’s typical of bounty’s run on bitcointalk
+[12:59:54 AM] Jesse:
+This is extremely useful information thanks I’ll relay it to the guys also
+[1:04:08 AM] Troy:
+It’s good to have a boiler plate response along the lines of “Users are responsible for their own security, We cannot reissue airdrop tokens” in case anyone asks, and also so that way if once distributed there is movement among the airdrop tokens and then consolidated into one account, you’ve got a heads up, We’ve seen that before and it can raise questions.
+
+If you aren’t already implementing steps to validate airdrop entry’s with IP’s i would suggest looking into that
+[1:06:16 AM] Jesse:
+For sure
+It’s not my department but I’ll relay it for sure
+This could cause a headache
+The airdroppers
+[1:07:04 AM] Troy:
+sorry about that, We never got filled in with whos who and in charge of what, But we know who gets things done, So it works well.
+the airdrop always causes an issue, the good thing here is theres 30 days of investor trading
+[1:07:27 AM] Jesse:
+It’s not a problem you can come to me with anything
+[1:07:27 AM] Troy:
+so no dumping at the list price
+thats rough
+[1:07:39 AM] Jesse:
+Exactly
+We took as many measures as possible to prevent dumping and manipulation
+[1:08:59 AM] Troy:
+locking airdrops and even bounties for at min 30 days is almost mandatory for a decent post ico trading price and just community morale in general
+if they have not paid anything, they will sell for anything
+and that cant be reasoned with or controlled
+[1:09:31 AM] Jesse:
+To be honest even ICO flippers will dump anyway but
+I don’t know what to expect with the price but there should be good demand for the token
+We’ve done more marketing and been more transparent than the average project
+[1:12:41 AM] Troy:
+CoinMarketCap lists tokens after $10k min trading volume, EtherDelta is almost dead right now
+https://coinmarketcap.com/exchanges/forkdelta/
+EtherDelta (ForkDelta) Trade Volume and Market Listings | CoinMarketCap
+$2,058,118 USD  in volume
+DENT/ETH  $1,957,500
+its almost all DENT
+so unless the 10k comes from there
+CMC will list after the 10th
+once on the first exchange
+so thats a date you can give out for CMC listing if people ask
+After the 10th
+[1:19:32 AM] Jesse:
+No worries we’ve got that taken care of
+CMC
+ED isn’t on our radar
+Dent pumped like crazy today bc of binance listing
+[1:53:08 AM] Troy:
+Yeah it’s sad to see something that was once so good like ED go the way it has but it’s for the best.
+Also alongside CMC Blockfolio is submission based once Trading on exchanges, it can be done via the app and the more who submit the quicker it gets listed
+[2:03:16 AM] Jesse:
+I prefer Delta personally but I’m sure we’ll try for both
+[2:32:50 AM] Troy:
+Yeah I don’t like Blockfolios new signals, Delta gets a +1 from me also, much cleaner and I like the UI Better
+
+--- Sunday, July 8, 2018 ---
+[2:13:28 PM] Troy:
+Hey Jesse what Timezone would the token unlock be in?
+[2:17:53 PM] Jesse:
+PST
+Midnight July 9
+[2:32:36 PM] Troy:
+Thanks, We will be on hand during the unlock period, as I mentioned in chat look into disabling the bot and being ready to also disable new users being able to post if an increase in spam starts, last time this was needed it took some time to enable
+[2:42:11 PM] Jesse:
+If you need anything directly at that time speak with Leo or Ioan I have to fly from Singapore to the United States
+I’ll be back about 11 hours after the tokens are unlocked
+[2:42:53 PM] Troy:
+Will do :+1:🏻
+[9:46:57 PM] Troy:
+if you have time before hand if you could take care of the quotes , if not after you get back will be fine, as long as its before the 10th
+[9:50:01 PM] Jesse:
+I’m leaving for the airport in an hour
+Tell me what you need exactly I’ll have to do it when I land
+edited 
+[9:52:59 PM] Troy:
+sorry i didnt realise that you were leaving so soon, Hope you have a good flight, We will speak when you’ve landed, the instructions are included in the last email i sent to you and Leo :+1:🏻
+[9:53:58 PM] Jesse:
+Ok great
+
+--- Monday, July 9, 2018 ---
+[2:19:18 PM] Troy:
+Hey Jesse just got an alert that some ELY has been sent to this address https://etherscan.io/address/0xd66aee5a6cab8a04f1f7ff0df36c27e8f6a16b45
+
+We don’t have it In our list of your accounts and just wanted to verify
+etherscan.io
+Ethereum Accounts, Address and Contracts
+The Ethereum BlockChain Explorer, API and Analytics Platform
+9,000,000 ELY
+[2:41:42 PM] Troy:
+All good we verified it’s yours :+1:🏻
+[4:19:15 PM] Troy:
+Hey Jesse I sent an email to you with our AAR and instructions on the few last things we are waiting on, Hope your trip home was good, and speak with you soon
+
+--- Tuesday, July 10, 2018 ---
+[2:38:28 AM] Troy:
+Also I think our invoice is due today, if that could be taken care of along with the quotes now that we are past the ICO end date that would be great as we’d like to get the quotes out alongside our AAR and other media
+[5:21:59 AM] Jesse:
+Alright I’m driving home and have to get situated
+[8:18:31 AM] Troy:
+Alright speak soon
+[12:48:40 PM] Troy:
+Hey Jesse we are going to be on assisting with the listing for the next 24-48 hours, If you could get that invoice sorted ill get the recepit back to you and get our AAR report public ASAP, We wanted it sorted before the listing but with 4 hours left its looking unlikely
+[1:51:03 PM] Jesse:
+I spoke with Leo about it
+Ioan is on his way back to Europe I believe he came to an agreement with you correct?
+[1:54:00 PM] Troy:
+the discussion with Loan was when this was the plan
+[1:54:01 PM] Troy:
+Forwarded message: 
+Ioan Hategan [Jun 23, 2018 9:06:28 PM] 
+Hey Troy. We never spoke in privite yet. Im Ioan the CMO of Elysian. I wanted to tell you that because of the market conditions, we're going to keep the remaining 12m of our TGE hard cap to be released in a second TGE 12 months from now. We're doing this for several reasons. We will have enough to survive for 1 year and give us a chance to receive more funding in 1 year to help the project, there will be a lower market cap and circ supply which is lucrative for traders, and the market conditions will not allow us to raise much right now so it's in the best interest of the project. So, we will only be able to pay you 25k combined for now in about 4 weeks, and then the rest once the next TGE is completed in 12 months, and you can stay on board as advisors and speak with Leo as well about a paid salary position. But we dropped our hard cap by about 60% so this should be more than fair. Hopefully you understand our situation.
+[1:54:59 PM] Troy:
+then we spoke when the plan changed
+[1:54:59 PM] Troy:
+Forwarded message: 
+Ioan Hategan [Jun 25, 2018 11:48:54 AM] 
+Hi. We can not pay you once the TGE is ongoing. We will 100% pay you the full amount as soon as possible.
+[1:58:02 PM] Jesse:
+Hmm
+[1:58:08 PM] Troy:
+Yeah.
+and thats the last we spoke, then i let you know on the 26th that we would send the invoice to be due for after the TGE end date of the 8th
+[1:58:10 PM] Jesse:
+I have to speak with him when he lands
+All advisors are being paid on the 12th
+[2:06:27 PM] Troy:
+Alright, Let me know when you've spoken with him, The invoice is due on the 11th and if theres any way to get it taken care of without going overdue that would be great, Someone will be on for the next 24-48 to monitor the exchange listing and SC.
+edited 
+[3:04:30 PM] Troy:
+also If we cant get the invoice filled by the due date, can we get the quotes if you've got them, As we dont really want both being overdue.
+[4:05:19 PM] Jesse:
+Ok then I just have to talk with Ioan when he lands
+Thanks for the hard work and patience
+[4:11:22 PM] Troy:
+Alright let me know when you have, Ill be overseeing the team tonight so ill be around.
+
+Its no problem,  I've done a few ICO's now and know how busy and all over the place things can get, so anything we can do to help make it safer and more secure for the team and the community, helps make it easier for Elysian to focus on the more important things
+:+1:
+[4:52:39 PM] Jesse:
+:ok_hand:
+
+--- Wednesday, July 11, 2018 ---
+[2:21:25 AM] Troy:
+We are going to publish our AAR now :+1:🏻
+We have a more detailed Public report but are awaiting the invoice and quotes before that goes out, Please try to get us an update on this ASAP
+Report is live - https://medium.com/@LinhartUK/elysian-aar-7346e5ff6c67?source=linkShare-5a0b8a25c25f-1531241679
+Medium
+Elysian Token Sale AAR
+After Action Report for the Elysian ICO
+[3:13:32 AM] Jesse:
+Ioan will be landing soon
+[8:05:44 AM] Troy:
+Sounds good :+1:🏻
+[3:25:24 PM] Troy:
+> Jesse Brandenburg
+> All advisors are being paid on the 12th
+Hey Jesse just wanted to ping this and see if we’d gotten anywhere, and also ask about this.
+
+12th HKT or 12th PST
+[9:57:04 PM] Troy:
+Forwarded message: 
+Troy Linforth [Jul 11, 2018 10:37:15 AM] 
+Hey Leo, just wanted to update you from our side, Things on both the website and SC have been secure and safe overnight since the listing.
+
+We detected an increase in activity online regarding the airdrop, We have some measures that can be implemented to help reduce the risk of users scamming the airdrop and dumping it.
+We detected this new smart contract
+https://etherscan.io/token/0xef0d0baa5c442e71b48414d6add6b487c0c38ed4?a=0x4c67eb86d70354731f11981aee91d969e3823c39
+
+Is this valid or something malicious ?
+etherscan.io
+Elysian Token for Jury.Online (ELYJOT) Token Tracker
+The Ethereum BlockChain Explorer, API and Analytics Platform
+We’ve also detected some other activity that when you have time we can go over in the next few days
+[9:57:23 PM] Troy:
+forwarding these to you as i just noticed Leo has in his name "NOT AVAILABLE FOR THE NEXT 48h"
+[10:04:07 PM] Jesse:
+Ok thanks, I’ll have an update for you in a few hours regarding the invoice and such. Speaking with both sets of legal teams shortly.
+Yes Leo is super busy
+[10:05:12 PM] Troy:
+> Jesse Brandenburg
+> Ok thanks, I’ll have an update for you in a few hours regarding the invoice and such. Speaking with both sets of legal teams sho
+Alright ill be around so let me know when you've got an update.
+
+is that smart contact valid or malicious?
+[10:26:55 PM] Jesse:
+Sorry to sound useless but if it’s tech related I’m not very helpful
+Let me ask one of our guys
+[10:34:59 PM] Troy:
+That’s alright, just something that came up on our radar
+[10:39:50 PM] Jesse:
+It belongs to jury online it’s not malicious
+[10:40:29 PM] Troy:
+Awesome, Thanks for the update :+1:🏻
+[10:59:50 PM] Jesse:
+No prob
+[11:26:45 PM] Jesse:
+Thanks for your hard work for Elysian. Leo really likes your services and wants to extend a contract working further for us. I appreciate your patience and I'm contacting you regarding payment for your advisor services for Elysian. After speaking with both our domestic and international legal teams, we've been advised to wait a time period that will be absolutely no later than the end of July before distributing out Ethereum as payment to advisors because this is an unconventional route that is taken by very few projects because of legal gray areas. As I'm sure you are experienced in this space, most advisors are paid in the native token. We chose to do Ethereum because it's more lucrative to our advisors and we wanted all advisors to be satisfied. Thus, both legal teams are speaking to the proper jurisdictions in coordination with our CPA as well to ensure that we are 100% compliant before distributing any Ethereum payments to advisors. I hope you understand our situation because this is something that we absolutely cannot risk whatsoever and may draw attention in a negative light if not handled properly by our legal teams. We are awaiting confirmation and paperwork and the timeframe we were told was absolutely no later than the end of July, but it could very well be earlier. For your patience, Elysian would like to offer an additional 5% on top of your original advisor bonus amount, also to be paid in Ethereum at the same time that the original payment is made. Again, we apologize for the slight inconvenience which is why we wanted to compensate our advisors a bit extra, but we hope you understand that we must stay 100% compliant and transparent in an industry where jurisdictions are just looking to take projects down with the right reasons. This will be cleared up shortly and all payments will be distributed once that's the case. Thanks again for your cooperation.
+[11:51:24 PM] Troy:
+I’ll have a response emailed to you in regards to this once I’ve spoken with the team.
+
+I’ll need to speak with Leo when he is available before we negotiate another service agreement and continue our services.
+
+The main issue I see before even speaking with the team that i know will come up is that while the payments mentioned above are for “Advisors” the payment that is now overdue is for services rendered by a service provider.
+
+I’ll speak with you soon.
+[11:52:51 PM] Jesse:
+I understand your concerns.
+
+--- Thursday, July 12, 2018 ---
+What about if we give you 5,000 today as a down payment?
+I want to make it work for both sides.
+[12:01:28 AM] Troy:
+If you can part pay that from the invoice I can make that work, I can get that by the team and that will sort things for now
+[12:01:28 AM] Jesse:
+We’re in a tough spot because of the legal ramifications.
+[12:03:42 AM] Troy:
+Cause if you can do 5 today, I can clear that invoice and reissue another
+[12:05:25 AM] Jesse:
+Ok great
+Thanks for being flexible it’s realllllly helpful.
+Believe me we want everyone to be happy.
+Eth address is the one on the invoice?
+[12:06:22 AM] Troy:
+Use the invoice address and let me know when it’s done and I’ll get that updated ASAP
+Same one :+1:🏻
+> Jesse Brandenburg
+> Believe me we want everyone to be happy.
+Understandable and thanks for being flexible also
+This just gets the team off me about working without an agreement and also with an overdue invoice
+[12:07:34 AM] Jesse:
+Ends in 7D?
+The address
+[12:08:01 AM] Troy:
+0xAcf36dd2dFEEBD08Fc98E7A9e5576cF3Ba694a7D
+That’s the one
+7D
+[12:12:16 AM] Jesse:
+I sent everything over to Leo as soon as he responds he will send
+[12:13:13 AM] Troy:
+Alright thanks for helping out, I’ll let you know when received and get the invoice updated ASAP.
+[12:48:48 AM] Jesse:
+Did you receive it?
+[12:49:46 AM] Troy:
+Thats been received, Ill email you and Leo a copy of the updated invoice ASAP
+We'll also need to sit down with you and Leo and go over the airdrop info we have collected at some point
+but thats not too urgent right now
+[12:55:48 AM] Jesse:
+That’s fine that can be dealt with in a week or so
+Right now we’re trying to confirm more exchanges and make a few additions
+[7:56:14 PM] Troy:
+Any exchanges the main focus?
+Also did you receive the updated invoice?
+With the social reach something like this and Binances community coin of the month might be good
+https://medium.com/kucoinexchange/vote-for-your-coin-telegram-action-f749362be26a
+Medium
+Vote For Your Coin Telegram Action!
+Dear Kucoin users,
+[8:48:17 PM] Jesse:
+Yes received the invoice
+Kucoin is def on our radar, hitbtc, and any of the top 10 we can get on
+Also gate.io
+Really want gate.io
+[9:56:57 PM] Troy:
+gate.io would be nice, any community voted coin listing is always hard to win
+have you got a date and time for QRYPTOS trading?
+[10:11:23 PM] Jesse:
+15th , about the time Leo knows
+[10:12:17 PM] Troy:
+Yeah we've got the 15th down but not the time, Will speak with him shortly about that
+
+--- Friday, July 13, 2018 ---
+[10:25:40 AM] Troy:
+Forwarded message: 
+Karma | Support (Will Not PM First) [Jul 13, 2018 9:39:58 AM] 
+We are currently on Bitforex, HOTBIT on the 13th, and Qryptos upcoming on the 15th, you can participate with Bitforex here : https://www.bitforex.com/
+Bitforex
+比特币手机交易平台_最安全比特币交易平台_比特币交易平台_bitforex币夫网
+bitforex币夫网是比特币手机交易平台，提供比特币交易的BTC交易平台，比特币交易所，是最安全比特币交易平台，也是最专业的比特币中国交易平台。
+[10:25:52 AM] Troy:
+Do we have a time for HOTBIT?
+[10:26:56 AM] Jesse:
+Leo knows he dealt specifically with hotbit
+[10:27:52 AM] Troy:
+:+1:🏻
+
+--- Saturday, July 14, 2018 ---
+edited 
+[12:05:47 PM] Troy:
+until the CMC listing happens , this has been updated with the new exchanges https://cryptorank.io/currencies/elysian
+cryptorank.io
+$0.0201 (ELY/USD) Elysian price index - Chart, History, Exchanges and Market cap | CryptoRank.io
+Current Elysian Value is $0.0201 with $2.82M Capitalization. Buy Elysian on :heavy_check_mark: 3 Exchanges with :heavy_check_mark: 4 Markets and :heavy_check_mark: $3.54M Daily Trade Volume.
+[5:40:43 PM] Troy:
+Hey Jesse, Are you able to provide the quotes for you and Leo or is that still something that you cant do until payments been made.
+[5:40:43 PM] Troy:
+Forwarded message: 
+Jesse Brandenburg [Jul 2, 2018 7:32:44 PM] 
+We actually want to wait to give all reviews and payments until the original projected end of TGE after speaking internally
+[11:45:37 PM] Jesse:
+So you basically need a quote about your services?
+I should be able to take care of that
+
+--- Sunday, July 15, 2018 ---
+[12:05:28 AM] Troy:
+Just posting these to you also so your updated on this
+[12:05:28 AM] Troy:
+Forwarded message: 
+Troy Linforth [Jul 13, 2018 5:15:24 PM] 
+Also I'll be happy to speak about a new agreement once the current exchange listings, airdrop & invoice are taken care off,  Theres already enough going on for the rest of this month once we've finished up with this We can get together and speak about the future needs and how we can go about meeting them (onsite security, security suites for merchants etc)
+We will stay on for this month while We work towards the above milestones for Elysian, After We can speak about how better we can help eachother
+[12:05:49 AM] Troy:
+These are from me to Leo :+1:
+> Jesse Brandenburg
+> I should be able to take care of that
+and thanks for that
+[12:16:16 AM] Jesse:
+Linhart Blockchain Consultants have been an integral part of the success of the Elysian project. Their team is very knowledgeable about security related issues and they have a consummate level of professionalism in the time that we have worked with them. I would highly recommend them to any project in the industry because they instantly bring value from the time they are hired and their services are extremely important given the nature of the industry, where top-notch security is an absolute necessity.
+Sound good?
+[12:17:43 AM] Troy:
+Perfect, Thanks for that
+thats exactly what we needed
+[12:19:09 AM] Jesse:
+My pleasure, you guys have been great
+edited 
+[12:26:20 AM] Troy:
+Its been a pleasure working with you and the team, Once we’ve sorted the last few things we can start negotiating a longer-term agreement and look at how best to help grow and protect Elysian, its Merchants and users.
+[2:08:54 AM] Troy:
+With the prospect of a future agreement We would like to offer a discount on the pending invoice to help with getting that cleared up and start working on a new agreement.
+
+if that's something that's possible let me know and we can speak more about it, if not the current arrangement is more then acceptable
+
+--- Monday, July 16, 2018 ---
+[1:27:41 AM] Troy:
+Hey Jesse, Leo’s spoken with me about the crypto listing website and the plans for the future, If you could get back to me on this so We can get the ball rolling on this or pencil it in for in a few weeks time that would be great
+
+I’ll be unavailable for the next few days while setting up another projects security team, if you need anything urgent feel free to get in touch, if its not urgent just email me and ill respond when i am free
+[5:25:31 AM] Jesse:
+Sounds good
+
+--- Tuesday, July 17, 2018 ---
+[12:50:33 PM] Troy:
+Hey Jesse, We are going to send through the discounted invoice with an earlier due date if this invoice can be taken care of before the due date at the discounted amount it will allow us to begin negotiations on the future relationship between Elysian and Linhart.
+
+The discount will be valid up until the due date, if the due date passes the full invoice amount and current due date will continue.
+
+Outside of this We also have some more information on the upcoming airdrop and bounties that may help to avoid dumping and gaming of the airdrop and bounty systems.
+[1:56:26 PM] Jesse:
+Thanks for the update Troy.
+12:30am here in the USA I’m heading to sleep but it’s in the morning for the other guys if you need something ASAP.
+
+--- Thursday, July 19, 2018 ---
+[11:10:15 AM] Troy:
+Hey Jesse, We’ve sent that invoice to you and Leo and I’ve spoken with Leo also about getting together to discuss a new agreement.
+edited 
+also wanted to give a heads up on this, as Leo had discussed the crypto listing site with us
+
+https://medium.com/@LinhartUK/linhart-partners-with-trackico-af09c94d1068
+Medium
+Linhart Partners with TrackICO
+TrackICO provides its users with the most reliable information about the best ICO projects and helps ICOs become more successful.
+[1:58:11 PM] Jesse:
+Hey Troy yes I received the email.
+I’ll have to see if it’s feasible to switch to the new invoice because the timeframe is dependent on a few legal concerns.
+edited 
+[2:08:02 PM] Troy:
+Understandable, As per our service agreement, We, The Service Provider are liable for and agreed to indemnify the Principal in respect to any adverse legal action or outcome that could arise from our agreement, so in our situation there should be minimal risk to Elysian
+
+Get back to me when you can with the outcome of the discussion.
+[2:17:32 PM] Jesse:
+Need 12h
+[2:18:19 PM] Troy:
+Will speak soon :+1:
+[10:46:26 PM] Jesse:
+I think we are going to have to stick to the original invoice.
+[11:12:36 PM] Troy:
+That's alright, I’ll see if I can have the date on the discount extended, I’ll get back to you on that
+[11:44:01 PM] Jesse:
+Not a problem
+
+--- Saturday, July 21, 2018 ---
+[1:01:41 PM] Troy:
+Hey Jesse, On Friday the 3rd of August I’ll be available to have a call with either you and/or Leo to discuss the Airdrop/bounty situation, go over some other information and discuss the future relationship between Elysian and Linhart.
+
+If this time isn’t good for you, Let me know as I’ll need to move things around to fit this in before I head off.
+And unfortunately I don’t think I’ll be able to extend that invoice out, it’s due on the 24th so if anything changes on your end before then feel free to pay the discounted amount, if that date passes payment of the full amount will remain due as per the current due date.
+[10:45:40 PM] Jesse:
+Ok about the call should be fine and about the invoice we’re fine paying the full amount
+
+--- Monday, July 23, 2018 ---
+[8:46:20 AM] Troy:
+Alright I’ll schedule that in, and that’s no problem
+
+--- Tuesday, July 24, 2018 ---
+[7:03:44 PM] Troy:
+Do you also have the IP for each entry logged?
+https://medium.com/@Elysian_Ely/elysian-airdrop-officially-ends-caa68120d46d
+Medium
+Elysian Airdrop Officially Ends
+Elysian has recently completed every phase of its Token Generation Event in early July, having raised its desired hard cap of 7 million…
+If not we have some resources that can assist with helping find more duplicate entries
+[11:25:49 PM] Jesse:
+I’d ask Leo but we will probably need assistance
+I think we just have the addresses but Nadine did the type form so I’m not 100% positive.
+Wallet addresses I mean.
+[11:33:24 PM] Troy:
+Yeah we can help to cut down on the fakes, Those are going out on the 8th so I’ll make sure we deal with that.
+One thing that will be good about removing fake entry’s is Elysian can promote that real entry’s will receive more ELY after removing the cheats
+And that can also be used as a reason for any delays in the airdrop
+
+--- Wednesday, July 25, 2018 ---
+[1:34:04 AM] Jesse:
+That’s true good point there
+[10:25:50 AM] Troy:
+Any extra time and ELY gained from postponing the airdrop is only going to benefit Elysian and the community
+Less dumping, more holding
+[10:26:28 AM] Jesse:
+For sure trust me I’m aware
+[10:32:24 AM] Troy:
+The only people who will get angry at the change are those who cheated the airdrop
+[10:39:44 AM] Jesse:
+Yup
+[4:34:03 PM] Troy:
+So 30 days from the date of that article is when they will be sent out, Buys an extra ~20 days which is more then enough to weed the fake ones out
+
+--- Thursday, July 26, 2018 ---
+[12:25:03 AM] Jesse:
+Yep that’s why I wrote it in there
+By the way
+These people on telegram chat are just insane
+Do you know anyone that would be a good community manager for our VIP telegram group?
+These guys ask 30 questions per hour and have a couple hundred dollars worth of ELY it’s a joke
+And Leo and I can’t run behind this stuff or we can’t get work done
+[12:37:44 AM] Troy:
+I have a few people in mind that might be up for it, They might need to be onboarded and given a general run down of Elysian but that shouldn't be something that would take too long
+Would be good to collect all of their questions that cant be answered by the CM and having them answered once a month or something like that.
+That way there off your and Leo's backs daily, but still getting answers so they arent going off in chat
+[3:07:58 AM] Jesse:
+True
+They just never stop though
+[12:09:19 PM] Troy:
+If you'd like for the time being invite me into the VIP room and I can answer what i can for now
+[1:13:08 PM] Troy:
+We can always speak about something more permanent in the next few weeks but if I can lend a hand I'm more then happy to help
+[2:28:17 PM] Jesse:
+I really appreciate it let me run it by Leo. I know he def wants you for the future.
+edited 
+[2:45:20 PM] Troy:
+No problem, I emailed him about the lockup smart contract he wanted us to have a look over also but haven’t had a reply yet
+We should have that done mid next week for the users in the membership program who are wanting to lock their tokens up
+I’ll also get in touch with Nadine about the Typeform airdrop over the next few days to grab some info to help with finding fakes entry’s
+[3:35:42 PM] Troy:
+And I just wanted to double check that everything’s on track for next weeks invoice? If there are any issues or delays as much advance notice as possible would be appreciated
+[11:28:58 PM] Jesse:
+I just messaged him to let him know
+I’ll update you later today
+
+--- Friday, July 27, 2018 ---
+[12:50:06 AM] Jesse:
+Leo invited you to the vip chat
+[12:51:05 AM] Troy:
+Thanks, I’ll try to help keep them off you and Leo the best I can
+[12:53:59 AM] Jesse:
+Don’t feel pressured to always be on there
+Just whenever you have a minute
+And we really appreciate it... I have a call with him shortly about the invoice
+[12:56:59 AM] Troy:
+Yeah that’s more so what it’ll be, If I notice something pop up that I can answer or direct them to the info I’ll be more then happy to
+> Jesse Brandenburg
+> And we really appreciate it... I have a call with him shortly about the invoice
+Let me know when you do and if there’s anything else we can do to assist
+[1:07:36 AM] Jesse:
+Sure will do
+[3:55:17 AM] Jesse:
+Is it fine to give you another 5k in 5-7 days?
+[5:34:36 AM] Troy:
+If the full amount can’t be paid by the due date, A part payment of at least 10k would be preferred given the amount outstanding.
+
+I’ll get back to you with our official response in a few hours
+[5:44:52 AM] Jesse:
+Ok let me see what I can do
+[8:47:17 AM] Troy:
+Let me know, If a part payment of 10k can be done earlier I can again extend another revised invoice and avoid that one coming due
+[12:27:42 PM] Jesse:
+Ok
+[5:08:58 PM] Troy:
+Yeah We would need minimum 10k of the pending invoice paid before the due date to reissue another extended invoice.
+The due date is the 31st so ideally we need this sorted in the next few days.
+
+--- Saturday, July 28, 2018 ---
+[10:09:18 AM] Troy:
+Let me know when you have an update on this
+[12:03:13 PM] Jesse:
+Alright sure
+[10:02:30 PM] Jesse:
+Ok so
+We can’t realistically pay 10k by the 31st but we can for sure do 5k if the rest of the invoice can be paid in increments leading up to when advisors are paid, which is mid September. I just spoke with Leo and he said for sure he wants you handling security services in the future for us so perhaps we can jump on a call next week the 3 of us and speak about the invoice and fees for your future services as well?
+edited 
+[10:17:31 PM] Troy:
+Can the 5k be taken care of now so I can get things moving and we can lock this in.
+That way we can start the week with the call about the payment schedule for the rest of the invoice and future services.
+[10:32:09 PM] Jesse:
+We can take care of it now as long as we address the rest of the invoice at the end of August, or at the very least a portion 2/3 of the way through August.
+If that’s fine send Leo your Eth address he’s gonna send tomorrow it’s late in Singapore
+[10:37:22 PM] Troy:
+That’ll be fine, We will reissue the invoice for the end of August and if it can be taken care of sooner then that it would be greatly appreciated.
+edited 
+and ill send that to Leo but it’ll be the same address as on the invoice
+[10:48:51 PM] Jesse:
+Cool
+[10:52:28 PM] Troy:
+I’ll be available Tuesday after 12pm GMT+1, Our COO is going to join us for the call, Let me know a time and we can lock in for next week
+if thats a bad time let me know, I am available eariler on Wednesday
+anytime after 9am GMT+1
+[11:03:24 PM] Jesse:
+I’m checking right now with Leo to see when he’s available also
+[11:20:42 PM] Troy:
+Alright, Ive sent Leo a message, Let me know when you've got a time
+[11:27:22 PM] Jesse:
+What about 3pm GMT+1 on Tuesday?
+[11:28:08 PM] Troy:
+That works for us :+1:🏻
+[11:29:06 PM] Jesse:
+Sounds good
+
+--- Sunday, July 29, 2018 ---
+[11:52:08 PM] Troy:
+Hey Jesse, We are still waiting on Leo, but I wanted to make sure this got to you
+[11:52:22 PM] Troy:
+Forwarded message: 
+Troy Linforth [Jul 29, 2018 3:13:30 PM] 
+https://www.hackread.com/ico-hacked-hackers-steal-millions-kickico-blockchain/
+HackRead
+ICO hacked: Hackers steal $8 million from KICKICO Blockchain network
+Another day, another ICO hacked - This time, KICKICO has suffered a security breach letting hackers steal $8 million.
+[11:52:38 PM] Troy:
+Smart Contract Exploited via Compromised Private Key
+[11:53:48 PM] Jesse:
+Wow crazy
+I’ve been talking with Leo the last hour he knows to send
+[11:54:37 PM] Troy:
+Yeah, theres some good tips about keeping the SC keys secure in that article
+[11:58:16 PM] Jesse:
+Good looks I’ll share it with the boys
+This stuff always scares me
+
+--- Monday, July 30, 2018 ---
+[12:03:09 AM] Troy:
+KICK are lucky the hackers didnt change the ownership to keys they controlled, They left them as the compromised keys, which let KICK add fresh cold storage keys as the owner
+[4:14:32 AM] Jesse:
+Leo wants you to post in the powerlaunch chat instead of the employees one
+[1:11:33 PM] Troy:
+> Jesse Brandenburg
+> Leo wants you to post in the powerlaunch chat instead of the employees one
+Will do.
+
+--- Tuesday, July 31, 2018 ---
+[10:59:32 PM] Jesse:
+Still on for a half hour from now?
+If you can’t talk let me know now
+Cause I have something else I gotta take care of but otherwise we’re still on
+[11:06:17 PM] Troy:
+I did message Leo about rescheduling the call earlier today , Sorry it didn’t get to you, should be Thursday or Friday this week depending on which is better for you
+[11:07:49 PM] Jesse:
+No worries
+
+--- Wednesday, August 1, 2018 ---
+[1:13:28 AM] Troy:
+Hey Jesse, The new invoice should come out today, The due date is going to be the 31st of August and will require the full amount, If like you mentioned it can be taken care of 2/3 of the way into August it would be greatly appreciated.
+
+Let Me know when the video is released, We have noted that the gleam.io bounty has been pushed back to help vet the entries, We still have some data to assist with the airdrop and bounty that needs to be discussed soon.
+[3:01:49 AM] Jesse:
+Sounds good thanks for the update
+
+--- Thursday, August 2, 2018 ---
+[12:58:45 PM] Troy:
+Is tomorrow at the same time good for you?
+[1:10:10 PM] Jesse:
+The day after is better
+[2:59:56 PM] Troy:
+That works for us
+edited 
+[6:30:48 PM] Troy:
+Is that time fine for you? We’ve sent you the updated invoice with the 31st of this month as the due date
+[11:22:47 PM] Troy:
+I’ve messaged Leo the above time and date, Get back to me when you can as We’d like to sit down together and discuss a few matters heading into this month.
+
+--- Friday, August 3, 2018 ---
+[12:13:48 AM] Jesse:
+Ok
+One quick question
+You guys spoke about a smart contract for locking up merch program tokens?
+I was told that you guys originally agreed on it but you don’t have any available employees, correct? This is really important to the company, is there any chance we can come to an agreement?
+I understand you guys might be frustrated about the invoice not being fully met yet, but if you were in our shoes you would understand all of the difficulties we are having right now and trying to make it work with everyone.
+Our team is very small because me, Leo, Levon, and Nadine are the only ones working and everyone else is apathetic
+So it’s putting us in a tough spot as you can see we’re pushing everything back because it’s too much work to do and too little help
+Our advisors have done absolutely nothing, the rest of our team has done absolutely nothing
+It’s just the core guys that work our tail off trying to run the whole establishment
+[1:05:22 AM] Troy:
+We mentioned that We would see if someone was able to take a look over the lockup SC and provide some info on the ownership, Our guys are currently assigned to other SC audits but We should have someone free in the next few days.
+While the invoicing has been frustrating We do understand that issues happen but some team members felt that there is the hesitation to pay the full amount due to the tendancy of advisors and the like to leave a project once payment has been received.
+Rest assued we arent planning on leaving Elysian anytime soon, We plan on providing what assistance We can into the forseable future.
+edited 
+We’d be more then happy to have someone assigned to the SC and have that turned around ASAP if We could come up to 50% of the full invoice, this would require 10k at the curent amount owing.
+This would be the only way currently that We could allocate personal and resources towards asssisting at this time.
+
+If We had staff without other assignments, This wouldnt be an issue and We would be happy to assist.
+We understand the complexities of conducting an ICO and the post-ICO issues and like to work with our clients towards a benificial outcome for both parties, So let me know if this isnt possible and We can discuss other options.
+
+From what We’ve seen it visible who carrys the load within the group and the work you guys do is great, It's a let down that the advisors aren't assisting and other members aren't pulling their weight, I'f there are any areas you need help in let me know and I might be able to refer a real advisor who can assist
+[1:19:58 AM] Jesse:
+I see
+So you need 10k?
+[1:26:15 AM] Troy:
+When the invoice has been paid up to 50% which at this time would require 10k, We can allocate resources and personal towards the SC and beyond, With more than 50% owing the team aren't prepared to allocate resources towards additional work outside the bounds of our agreement.
+[2:32:13 AM] Jesse:
+That’s reasonable I understand
+[2:37:59 AM] Troy:
+If your able to make that work let me know ASAP, So we can try and work towards another solution if this isn’t possible.
+[3:02:25 AM] Jesse:
+Alright
+By the way is the call still happening tomorrow at the same time?
+3pm GMT + 1?
+[8:48:27 AM] Troy:
+Yeah Saturday at 3pm GMT + 1
+As long as it’s good for you We are available
+[10:32:31 AM] Troy:
+Let me know so I can lock it in
+[10:32:57 AM] Jesse:
+It’s cool with me but I gotta check with Leo
+edited 
+[10:50:28 AM] Troy:
+Alright, We can discuss it on the call but what do you think the chances are of the above being able to be taken care of.
+Giving me a heads up I so can ensure that We don't reassign someone when they come off an audit so they aren't tied up would be appreciated
+[11:28:39 AM] Jesse:
+50/50
+Leo ultimately makes the call
+edited 
+[11:30:13 AM] Troy:
+Alright, Let me know when you’ve spoken with him and confirmed the time, If that time isn’t good We're available Sunday almost any time between 10-4 GMT+1
+[1:34:36 PM] Troy:
+I’ve let Leo know that We have a team that finishes on their deployment tomorrow, and that we can hold off assigning them for maybe 24 hours while We work this out.
+
+Our next available team won’t be till the end of next week, So I’ll try to keep them free
+[1:35:12 PM] Jesse:
+Ok I see
+edited 
+[5:57:02 PM] Troy:
+I'll be available for the next 5+ Hours, If Leo cant lock in the call before I'm unavailable We will need to reschedule it to a time better for both of us.
+edited 
+[8:50:57 PM] Troy:
+We’ve locked in Tuesday at the same time for our call and get back to me on the other matter ASAP
+[11:25:02 PM] Jesse:
+Ok
+[11:48:39 PM] Troy:
+I’ll let you know when We hear back from Leo about the lockup contract.
+
+--- Saturday, August 4, 2018 ---
+[1:53:01 PM] Jesse:
+Tuesday at GMT+1 3pm?
+[1:53:34 PM] Troy:
+:+1:🏻
+We’ll be available most of the day so if that time doesn’t work we can do it earlier
+[1:54:48 PM] Jesse:
+That time works fine
+[4:51:44 PM] Troy:
+Forwarded message: 
+Troy Linforth [Aug 4, 2018 4:41:06 PM] 
+I’ll be able to hold the team till the end of the day UK time, After that We will need to speak as to the next teams availability during our call.
+Forwarded message: 
+Leo Ameri [Aug 4, 2018 4:49:38 PM] 
+please manage these things with Jesse, I'll be flying so will be hard for me to reply within the next 48h.
+[4:54:29 PM] Troy:
+I'll check in with you towards the end of the day and see if you've got an update on this
+
+--- Sunday, August 5, 2018 ---
+[12:46:39 AM] Troy:
+I’ve got about an hour left before I head out, If we don’t have something tomorrow morning We are going to be assigning them elsewhere.
+[12:48:10 AM] Jesse:
+Ok that’s fine
+You can assign them elsewhere
+We can’t pay 10k by tomorrow
+I’m sorry but it’s just not feasible
+edited 
+[12:56:15 AM] Troy:
+That's fine, The next team will be available around the 14th, If things have been sorted by then We can discuss assigning resources towards Elysian for the SC and beyond
+Thanks for getting back to me
+[1:05:31 AM] Jesse:
+No problem looking forward to the call Tuesday
+[1:16:53 AM] Troy:
+Same here, Looking forward to discussing the current situation and how We can go about assisting.
+[1:55:23 PM] Troy:
+Just wanted to give you a heads up that We aren't monitoring the forum currently, We noticed it go live but won't be able to allocate resources towards that until after We’ve spoken on the call
+[2:17:11 PM] Jesse:
+Its fine Troy
+I understand what you guys are doing
+I wasn’t born yesterday
+Business is business
+[2:30:05 PM] Troy:
+Apologies if that came across rude, We simply noticed the forum go live and just wanted to let you know that We aren't able to allocate resources until We've spoken this week so you can monitor the site yourselves and ensure everything is operating correctly.
+
+Your site now contains users data and should be adequately protected, It's not our job to ensure these measures are in place but as a courtesy and wanting to assist where possible We felt like notifying you that We are still monitoring the main domain and addresses, But will not be adding any additional addresses at this point in time.
+[3:42:00 PM] Jesse:
+No worries
+Thanks for the update
+[4:17:34 PM] Troy:
+No problem
+
+--- Monday, August 6, 2018 ---
+[2:35:56 AM] Jesse:
+Hey Troy, are you guys looking for more work? I can make an introduction for you to a good friend who’s building a massive project and needs cyber security help
+He’s our best advisor he’s very reputable and has a lot of connections in the industry
+If you are taking on clients I’ll make the intro for you
+[3:13:21 AM] Troy:
+If you’d want to send some details along to onboarding@linhartblockchainconsultants.com I’ll make sure someone gets back to you after the weekend.
+We would need to go over their needs and schedule a time to discuss the project.
+[3:14:41 AM] Jesse:
+Ok I see
+Graham Doggart will be contacting you
+His project is called AuBIT
+[4:27:42 PM] Troy:
+Thanks, I’ll keep an eye out for his email, Will touch base tomorrow to confirm our call
+Looking forward to speaking soon
+
+--- Tuesday, August 7, 2018 ---
+[1:47:22 AM] Jesse:
+Likewise
+[3:56:05 PM] Troy:
+Hey Jesse just want to confirm we  are still on for today’s call, Let me know.
+[10:20:11 PM] Jesse:
+Yup
+1 hour correct?
+[10:20:44 PM] Troy:
+Yes Leo spoke with us eariler, 1 hour is good for us
+[10:21:51 PM] Jesse:
+Is it at 2:30 or 3?
+[10:24:20 PM] Troy:
+I think its 3 but you might need to check with Leo
+[10:26:12 PM] Jesse:
+3 is fine
+
+--- Wednesday, August 8, 2018 ---
+[3:02:37 AM] Jesse:
+We can get you another installment in 7-14 days
+[11:15:59 AM] Troy:
+That would be great, If it's closer to 7 I’ll be able to hold up the team that comes off on the 14th while we hammer out a new agreement for the future white label services and then get them assigned to assist in whatever way needed
+ 
+
+
+
+
+
+[6:21:14 PM] Troy:
+Hey Jesse, In the next few days we will send the finalized invoice along that will be due after the 8th when the TGE finishes.
+
+I'll be reaching out to Leo for one when we speak about our ongoing role, But i wanted to see if we could grab a quote or comment about our service during the TGE to use for future marketing.
+
+[7:07:44 PM] Jesse:
+Alright I’ll speak with him
+
+--- Wednesday, June 27, 2018 ---
+
+[4:52:44 PM] Troy:
+Hey Jesse I've sent that email onto you now, The invoice is due after the 8th but can be taken care of at any point, The eariler its taken care of the better for Elysian as if ETH continues downwards it'll increase the ETH needed to meet the payment amount. 
+
+We don't want Elysian having to pay more ETH then is required to currently meet the payment amount invoiced.
+ If you and Leo could get back to us with the quotes when possible that would be great :+1:🏻
+
+--- Monday, July 2, 2018 ---
+
+[11:20:15 AM] Troy:
+Hey Jesse I’ll be getting a quote from Leo when we sit down for our call this week, If you could email me something from yourself about your services during the ICO when you have time it would be greatly appreciated :+1:🏻
+
+[11:57:49 AM] Jesse:
+What exactly do you mean?
+
+[12:03:53 PM] Troy:
+Just a quote or comment in regards to our services during the ICO, We are just putting together our AAR and Public Report and wanted to include a comment from at least Leo and yourself on the quality of our services or any other feedback that you’d be able to provide
+
+[1:12:46 PM] Jesse:
+Ah ok I see
+ I’ll take care of this shortly
+
+[2:45:05 PM] Troy:
+Thanks We are looking to have our AAR and Public report ready before the 8th to go out after the ICO ends
+
+[7:32:18 PM] Jesse:
+Oh ok
+ We actually want to wait to give all reviews and payments until the original projected end of TGE after speaking internally
+ Anything done prematurely may have potential consequences
+
+[8:23:11 PM] Troy:
+Understandable, Alright well on our end of things for the AAR and Public report will be just awaiting those before we publish them, Look forward to receiving them after the 8th :+1:🏻
+
+[8:25:49 PM] Jesse:
+Sounds good Troy
+
+--- Tuesday, July 3, 2018 ---
+
+[5:40:47 PM] Troy:
+Hey Jesse our systems flagged a large transfer of ELY to an address we don’t have listed as an Elysian affiliated address, the teams pretty sure it’s nothing but wanted to check to make sure all is good there.
+
+https://etherscan.io/address/0x241d6629d4ab41d7c04362536b2f6cd49894e05d
+etherscan.io
+Ethereum Accounts, Address and Contracts
+The Ethereum BlockChain Explorer, API and Analytics Platform
+ https://etherscan.io/tx/0x0fb7800912a25f06b8b1a51307c68b1eb0a1b11b38ac63206397db8bbf74eeaa
+etherscan.io
+Ethereum Transaction 0x0fb7800912a25f06b8b1a51307c68b1eb0a1b11b38ac63206397db8bbf74eeaa
+Ethereum (ETH) detailed transaction info for 0x0fb7800912a25f06b8b1a51307c68b1eb0a1b11b38ac63206397db8bbf74eeaa
+
+[5:43:28 PM] Jesse:
+Let me check this when I get home in about 90 mins thanks for the heads up
+
+[8:04:38 PM] Jesse:
+These are the addresses holding the 120m ELY
+ that will be released for every client we sign
+
+[8:06:36 PM] Troy:
+Alright I’ll have them updated as belonging to Elysian, Thanks for the info
+
+[8:07:14 PM] Jesse:
+sure
+
+--- Friday, July 6, 2018 ---
+
+[2:59:46 PM] Troy:
+Hey Jesse, Here’s the draft of our AAR https://medium.com/@LinhartUK/elysian-aar-7346e5ff6c67
+Medium
+Elysian Token Sale AAR
+After Action Report for the Elysian ICO
+ That and our other reports will go live after the 8th :+1:🏻
+
+[11:08:06 PM] Jesse:
+Got it thanks
+ So what are the best practices to prevent our smart contract from being hacked when we get listed?
+
+[11:46:16 PM] Troy:
+You shouldnt have any issue during the listing period, the period to watch will be the Airdrops being release, Typically the investors during the ICO have better security then those getting the free Airdrops, often we see keys leaked and peoples airdrops stolen and then collected
+ making sure they know how to stay safe can avoid those issues
+
+--- Saturday, July 7, 2018 ---
+
+[12:26:26 AM] Troy:
+> Jesse Brandenburg
+> So what are the best practices to prevent our smart contract from being hacked when we get listed?
+While our contract is up until the 8th, Our services and systems will be staying in place as per the converstation I've had with Leo, We want to make sure the exchange listings, airdrop, and beyond are secure and smooth for the team
+
+[12:32:47 AM] Jesse:
+Thats perfect we will need you
+ I appreciate the help
+ Running an ICO is like walking through a minefield
+ Especially given the current market conditions
+
+[12:35:40 AM] Troy:
+Yeah we reassured Leo that we aren’t looking to get our invoice filled and then off we go like most, Ongoing support and assistance is something that’s really helpful and we aren’t going anywhere anytime soon.
+ Yeah we reassured Leo that we aren’t looking to get our invoice filled and then off we go like most, Ongoing support and assistance is something that’s really helpful and we aren’t going anywhere anytime soon.
+ Yeah we reassured Leo that we aren’t looking to get our invoice filled and then off we go like most, Ongoing support and assistance is something that’s really helpful and we aren’t going anywhere anytime soon.
+
+[12:48:41 AM] Jesse:
+Well we certainly appreciate that
+
+[12:53:27 AM] Troy:
+The next 2 big dates will be the 10th and the airdrop date, Those will both bring scams and issues
+ Be ready for lots of “to celebrate exchange listings we are doing a giveaway”
+ And from our investigation and the way the bounty has been done, We are expecting that a portion of users will lose their tokens
+ ^ explaining this as it’s been explained to me.
+
+This bounty here —> https://bitcointalk.org/index.php?topic=3332920.new
+
+The way that users have been confirming their activity gives malicious users the ability to gather data on who’s signed up, their respective social media’s and emails, their ETH addresses and more. From their it’s the least secure ones who fall victim, those with private keys stored in notes in the cloud etc
+ We aren’t estimating that many users will be caught up in this, but it’s typical of bounty’s run on bitcointalk
+
+[12:59:54 AM] Jesse:
+This is extremely useful information thanks I’ll relay it to the guys also
+
+[1:04:08 AM] Troy:
+It’s good to have a boiler plate response along the lines of “Users are responsible for their own security, We cannot reissue airdrop tokens” in case anyone asks, and also so that way if once distributed there is movement among the airdrop tokens and then consolidated into one account, you’ve got a heads up, We’ve seen that before and it can raise questions.
+
+If you aren’t already implementing steps to validate airdrop entry’s with IP’s i would suggest looking into that
+
+[1:06:16 AM] Jesse:
+For sure
+ It’s not my department but I’ll relay it for sure
+ This could cause a headache
+ The airdroppers
+
+[1:07:04 AM] Troy:
+sorry about that, We never got filled in with whos who and in charge of what, But we know who gets things done, So it works well.
+ the airdrop always causes an issue, the good thing here is theres 30 days of investor trading
+
+[1:07:27 AM] Jesse:
+It’s not a problem you can come to me with anything
+
+[1:07:27 AM] Troy:
+so no dumping at the list price
+ thats rough
+
+[1:07:39 AM] Jesse:
+Exactly
+ We took as many measures as possible to prevent dumping and manipulation
+
+[1:08:59 AM] Troy:
+locking airdrops and even bounties for at min 30 days is almost mandatory for a decent post ico trading price and just community morale in general
+ if they have not paid anything, they will sell for anything
+ and that cant be reasoned with or controlled
+
+[1:09:31 AM] Jesse:
+To be honest even ICO flippers will dump anyway but
+ I don’t know what to expect with the price but there should be good demand for the token
+ We’ve done more marketing and been more transparent than the average project
+
+[1:12:41 AM] Troy:
+CoinMarketCap lists tokens after $10k min trading volume, EtherDelta is almost dead right now
+ https://coinmarketcap.com/exchanges/forkdelta/
+EtherDelta (ForkDelta) Trade Volume and Market Listings | CoinMarketCap
+[Photo]
+ $2,058,118 USD  in volume
+ DENT/ETH  $1,957,500
+ its almost all DENT
+ so unless the 10k comes from there
+ CMC will list after the 10th
+ once on the first exchange
+ so thats a date you can give out for CMC listing if people ask
+ After the 10th
+
+[1:19:32 AM] Jesse:
+No worries we’ve got that taken care of
+ CMC
+ ED isn’t on our radar
+ Dent pumped like crazy today bc of binance listing
+
+[1:53:08 AM] Troy:
+Yeah it’s sad to see something that was once so good like ED go the way it has but it’s for the best.
+ Also alongside CMC Blockfolio is submission based once Trading on exchanges, it can be done via the app and the more who submit the quicker it gets listed
+
+[2:03:16 AM] Jesse:
+I prefer Delta personally but I’m sure we’ll try for both
+
+[2:32:50 AM] Troy:
+Yeah I don’t like Blockfolios new signals, Delta gets a +1 from me also, much cleaner and I like the UI Better
+
+--- Sunday, July 8, 2018 ---
+
+[2:13:28 PM] Troy:
+Hey Jesse what Timezone would the token unlock be in?
+
+[2:17:53 PM] Jesse:
+PST
+ Midnight July 9
+
+[2:32:36 PM] Troy:
+Thanks, We will be on hand during the unlock period, as I mentioned in chat look into disabling the bot and being ready to also disable new users being able to post if an increase in spam starts, last time this was needed it took some time to enable
+
+[2:42:11 PM] Jesse:
+If you need anything directly at that time speak with Leo or Ioan I have to fly from Singapore to the United States
+ I’ll be back about 11 hours after the tokens are unlocked
+
+[2:42:53 PM] Troy:
+Will do :+1:🏻
+
+[9:46:57 PM] Troy:
+if you have time before hand if you could take care of the quotes , if not after you get back will be fine, as long as its before the 10th
+
+[9:50:01 PM] Jesse:
+I’m leaving for the airport in an hour
+ Tell me what you need exactly I’ll have to do it when I land
+edited 
+[9:52:59 PM] Troy:
+sorry i didnt realise that you were leaving so soon, Hope you have a good flight, We will speak when you’ve landed, the instructions are included in the last email i sent to you and Leo :+1:🏻
+
+[9:53:58 PM] Jesse:
+Ok great
+
+--- Monday, July 9, 2018 ---
+
+[2:19:18 PM] Troy:
+Hey Jesse just got an alert that some ELY has been sent to this address https://etherscan.io/address/0xd66aee5a6cab8a04f1f7ff0df36c27e8f6a16b45
+
+We don’t have it In our list of your accounts and just wanted to verify
+etherscan.io
+Ethereum Accounts, Address and Contracts
+The Ethereum BlockChain Explorer, API and Analytics Platform
+ 9,000,000 ELY
+
+[2:41:42 PM] Troy:
+All good we verified it’s yours :+1:🏻
+
+[4:19:15 PM] Troy:
+Hey Jesse I sent an email to you with our AAR and instructions on the few last things we are waiting on, Hope your trip home was good, and speak with you soon
+
+--- Tuesday, July 10, 2018 ---
+
+[2:38:28 AM] Troy:
+Also I think our invoice is due today, if that could be taken care of along with the quotes now that we are past the ICO end date that would be great as we’d like to get the quotes out alongside our AAR and other media
+
+[5:21:59 AM] Jesse:
+Alright I’m driving home and have to get situated
+
+[8:18:31 AM] Troy:
+Alright speak soon
+
+[12:48:40 PM] Troy:
+Hey Jesse we are going to be on assisting with the listing for the next 24-48 hours, If you could get that invoice sorted ill get the recepit back to you and get our AAR report public ASAP, We wanted it sorted before the listing but with 4 hours left its looking unlikely
+
+[1:51:03 PM] Jesse:
+I spoke with Leo about it
+ Ioan is on his way back to Europe I believe he came to an agreement with you correct?
+
+[1:54:00 PM] Troy:
+the discussion with Loan was when this was the plan
+
+[1:54:01 PM] Troy:
+Forwarded message: Ioan Hategan [Jun 23, 2018 9:06:28 PM] 
+Hey Troy. We never spoke in privite yet. Im Ioan the CMO of Elysian. I wanted to tell you that because of the market conditions, we're going to keep the remaining 12m of our TGE hard cap to be released in a second TGE 12 months from now. We're doing this for several reasons. We will have enough to survive for 1 year and give us a chance to receive more funding in 1 year to help the project, there will be a lower market cap and circ supply which is lucrative for traders, and the market conditions will not allow us to raise much right now so it's in the best interest of the project. So, we will only be able to pay you 25k combined for now in about 4 weeks, and then the rest once the next TGE is completed in 12 months, and you can stay on board as advisors and speak with Leo as well about a paid salary position. But we dropped our hard cap by about 60% so this should be more than fair. Hopefully you understand our situation.
+
+[1:54:59 PM] Troy:
+then we spoke when the plan changed
+
+[1:54:59 PM] Troy:
+Forwarded message: Ioan Hategan [Jun 25, 2018 11:48:54 AM] 
+Hi. We can not pay you once the TGE is ongoing. We will 100% pay you the full amount as soon as possible.
+
+[1:58:02 PM] Jesse:
+Hmm
+
+[1:58:08 PM] Troy:
+Yeah.
+ and thats the last we spoke, then i let you know on the 26th that we would send the invoice to be due for after the TGE end date of the 8th
+
+[1:58:10 PM] Jesse:
+I have to speak with him when he lands
+ All advisors are being paid on the 12th
+
+[2:06:27 PM] Troy:
+Alright, Let me know when you've spoken with him, The invoice is due on the 11th and if theres any way to get it taken care of without going overdue that would be great, Someone will be on for the next 24-48 to monitor the exchange listing and SC.
+edited 
+[3:04:30 PM] Troy:
+also If we cant get the invoice filled by the due date, can we get the quotes if you've got them, As we dont really want both being overdue.
+
+[4:05:19 PM] Jesse:
+Ok then I just have to talk with Ioan when he lands
+ Thanks for the hard work and patience
+
+[4:11:22 PM] Troy:
+Alright let me know when you have, Ill be overseeing the team tonight so ill be around.
+
+Its no problem,  I've done a few ICO's now and know how busy and all over the place things can get, so anything we can do to help make it safer and more secure for the team and the community, helps make it easier for Elysian to focus on the more important things
+ :+1:
+
+[4:52:39 PM] Jesse:
+:ok_hand:
+
+--- Wednesday, July 11, 2018 ---
+
+[2:21:25 AM] Troy:
+We are going to publish our AAR now :+1:🏻
+We have a more detailed Public report but are awaiting the invoice and quotes before that goes out, Please try to get us an update on this ASAP
+ Report is live - https://medium.com/@LinhartUK/elysian-aar-7346e5ff6c67?source=linkShare-5a0b8a25c25f-1531241679
+Medium
+Elysian Token Sale AAR
+After Action Report for the Elysian ICO
+
+[3:13:32 AM] Jesse:
+Ioan will be landing soon
+
+[8:05:44 AM] Troy:
+Sounds good :+1:🏻
+
+[3:25:24 PM] Troy:
+> Jesse Brandenburg
+> All advisors are being paid on the 12th
+Hey Jesse just wanted to ping this and see if we’d gotten anywhere, and also ask about this.
+
+12th HKT or 12th PST
+
+[9:57:04 PM] Troy:
+Forwarded message: Troy Linforth [Jul 11, 2018 10:37:15 AM] 
+Hey Leo, just wanted to update you from our side, Things on both the website and SC have been secure and safe overnight since the listing.
+
+We detected an increase in activity online regarding the airdrop, We have some measures that can be implemented to help reduce the risk of users scamming the airdrop and dumping it.
+We detected this new smart contract 
+https://etherscan.io/token/0xef0d0baa5c442e71b48414d6add6b487c0c38ed4?a=0x4c67eb86d70354731f11981aee91d969e3823c39
+
+Is this valid or something malicious ?
+etherscan.io
+Elysian Token for Jury.Online (ELYJOT) Token Tracker
+The Ethereum BlockChain Explorer, API and Analytics Platform
+We’ve also detected some other activity that when you have time we can go over in the next few days
+
+[9:57:23 PM] Troy:
+forwarding these to you as i just noticed Leo has in his name "NOT AVAILABLE FOR THE NEXT 48h"
+
+[10:04:07 PM] Jesse:
+Ok thanks, I’ll have an update for you in a few hours regarding the invoice and such. Speaking with both sets of legal teams shortly.
+ Yes Leo is super busy
+
+[10:05:12 PM] Troy:
+> Jesse Brandenburg
+> Ok thanks, I’ll have an update for you in a few hours regarding the invoice and such. Speaking with both sets of legal teams sho
+Alright ill be around so let me know when you've got an update.
+
+is that smart contact valid or malicious?
+
+[10:26:55 PM] Jesse:
+Sorry to sound useless but if it’s tech related I’m not very helpful
+ Let me ask one of our guys
+
+[10:34:59 PM] Troy:
+That’s alright, just something that came up on our radar
+
+[10:39:50 PM] Jesse:
+It belongs to jury online it’s not malicious
+
+[10:40:29 PM] Troy:
+Awesome, Thanks for the update :+1:🏻
+
+[10:59:50 PM] Jesse:
+No prob
+
+[11:26:45 PM] Jesse:
+Thanks for your hard work for Elysian. Leo really likes your services and wants to extend a contract working further for us. I appreciate your patience and I'm contacting you regarding payment for your advisor services for Elysian. After speaking with both our domestic and international legal teams, we've been advised to wait a time period that will be absolutely no later than the end of July before distributing out Ethereum as payment to advisors because this is an unconventional route that is taken by very few projects because of legal gray areas. As I'm sure you are experienced in this space, most advisors are paid in the native token. We chose to do Ethereum because it's more lucrative to our advisors and we wanted all advisors to be satisfied. Thus, both legal teams are speaking to the proper jurisdictions in coordination with our CPA as well to ensure that we are 100% compliant before distributing any Ethereum payments to advisors. I hope you understand our situation because this is something that we absolutely cannot risk whatsoever and may draw attention in a negative light if not handled properly by our legal teams. We are awaiting confirmation and paperwork and the timeframe we were told was absolutely no later than the end of July, but it could very well be earlier. For your patience, Elysian would like to offer an additional 5% on top of your original advisor bonus amount, also to be paid in Ethereum at the same time that the original payment is made. Again, we apologize for the slight inconvenience which is why we wanted to compensate our advisors a bit extra, but we hope you understand that we must stay 100% compliant and transparent in an industry where jurisdictions are just looking to take projects down with the right reasons. This will be cleared up shortly and all payments will be distributed once that's the case. Thanks again for your cooperation.
+
+[11:51:24 PM] Troy:
+I’ll have a response emailed to you in regards to this once I’ve spoken with the team.
+
+I’ll need to speak with Leo when he is available before we negotiate another service agreement and continue our services.
+
+The main issue I see before even speaking with the team that i know will come up is that while the payments mentioned above are for “Advisors” the payment that is now overdue is for services rendered by a service provider.
+
+I’ll speak with you soon.
+
+[11:52:51 PM] Jesse:
+I understand your concerns.
+
+--- Thursday, July 12, 2018 ---
+ What about if we give you 5,000 today as a down payment?
+ I want to make it work for both sides.
+
+[12:01:28 AM] Troy:
+If you can part pay that from the invoice I can make that work, I can get that by the team and that will sort things for now
+
+[12:01:28 AM] Jesse:
+We’re in a tough spot because of the legal ramifications.
+
+[12:03:42 AM] Troy:
+Cause if you can do 5 today, I can clear that invoice and reissue another
+
+[12:05:25 AM] Jesse:
+Ok great
+ Thanks for being flexible it’s realllllly helpful.
+ Believe me we want everyone to be happy.
+ Eth address is the one on the invoice?
+
+[12:06:22 AM] Troy:
+Use the invoice address and let me know when it’s done and I’ll get that updated ASAP
+ Same one :+1:🏻
+> Jesse Brandenburg
+> Believe me we want everyone to be happy.
+Understandable and thanks for being flexible also
+ This just gets the team off me about working without an agreement and also with an overdue invoice
+
+[12:07:34 AM] Jesse:
+Ends in 7D?
+ The address
+
+[12:08:01 AM] Troy:
+0xAcf36dd2dFEEBD08Fc98E7A9e5576cF3Ba694a7D
+ That’s the one
+ 7D
+
+[12:12:16 AM] Jesse:
+I sent everything over to Leo as soon as he responds he will send
+
+[12:13:13 AM] Troy:
+Alright thanks for helping out, I’ll let you know when received and get the invoice updated ASAP.
+
+[12:48:48 AM] Jesse:
+Did you receive it?
+
+[12:49:46 AM] Troy:
+Thats been received, Ill email you and Leo a copy of the updated invoice ASAP
+ We'll also need to sit down with you and Leo and go over the airdrop info we have collected at some point
+ but thats not too urgent right now
+
+[12:55:48 AM] Jesse:
+That’s fine that can be dealt with in a week or so
+ Right now we’re trying to confirm more exchanges and make a few additions
+
+[7:56:14 PM] Troy:
+Any exchanges the main focus? 
+Also did you receive the updated invoice?
+ With the social reach something like this and Binances community coin of the month might be good
+ https://medium.com/kucoinexchange/vote-for-your-coin-telegram-action-f749362be26a
+
+Medium
+Vote For Your Coin Telegram Action!
+Dear Kucoin users,
+
+[8:48:17 PM] Jesse:
+Yes received the invoice
+ Kucoin is def on our radar, hitbtc, and any of the top 10 we can get on
+ Also gate.io
+ Really want gate.io
+
+[9:56:57 PM] Troy:
+gate.io would be nice, any community voted coin listing is always hard to win
+ have you got a date and time for QRYPTOS trading?
+
+[10:11:23 PM] Jesse:
+15th , about the time Leo knows
+
+[10:12:17 PM] Troy:
+Yeah we've got the 15th down but not the time, Will speak with him shortly about that
+
+--- Friday, July 13, 2018 ---
+
+[10:25:40 AM] Troy:
+Forwarded message: Karma | Support (Will Not PM First) [Jul 13, 2018 9:39:58 AM] 
+We are currently on Bitforex, HOTBIT on the 13th, and Qryptos upcoming on the 15th, you can participate with Bitforex here : https://www.bitforex.com/
+Bitforex
+比特币手机交易平台_最安全比特币交易平台_比特币交易平台_bitforex币夫网
+bitforex币夫网是比特币手机交易平台，提供比特币交易的BTC交易平台，比特币交易所，是最安全比特币交易平台，也是最专业的比特币中国交易平台。
+
+[10:25:52 AM] Troy:
+Do we have a time for HOTBIT?
+
+[10:26:56 AM] Jesse:
+Leo knows he dealt specifically with hotbit
+
+[10:27:52 AM] Troy:
+:+1:🏻
+
+--- Saturday, July 14, 2018 ---
+edited 
+[12:05:47 PM] Troy:
+until the CMC listing happens , this has been updated with the new exchanges https://cryptorank.io/currencies/elysian
+
+cryptorank.io
+$0.0201 (ELY/USD) Elysian price index - Chart, History, Exchanges and Market cap | CryptoRank.io
+Current Elysian Value is $0.0201 with $2.82M Capitalization. Buy Elysian on :heavy_check_mark: 3 Exchanges with :heavy_check_mark: 4 Markets and :heavy_check_mark: $3.54M Daily Trade Volume.
+
+[5:40:43 PM] Troy:
+Hey Jesse, Are you able to provide the quotes for you and Leo or is that still something that you cant do until payments been made.
+
+[5:40:43 PM] Troy:
+Forwarded message: Jesse Brandenburg [Jul 2, 2018 7:32:44 PM] 
+We actually want to wait to give all reviews and payments until the original projected end of TGE after speaking internally
+
+[11:45:37 PM] Jesse:
+So you basically need a quote about your services?
+ I should be able to take care of that
+
+--- Sunday, July 15, 2018 ---
+
+[12:05:28 AM] Troy:
+Just posting these to you also so your updated on this
+
+[12:05:28 AM] Troy:
+Forwarded message: Troy Linforth [Jul 13, 2018 5:15:24 PM] 
+Also I'll be happy to speak about a new agreement once the current exchange listings, airdrop & invoice are taken care off,  Theres already enough going on for the rest of this month once we've finished up with this We can get together and speak about the future needs and how we can go about meeting them (onsite security, security suites for merchants etc)
+We will stay on for this month while We work towards the above milestones for Elysian, After We can speak about how better we can help eachother
+
+[12:05:49 AM] Troy:
+These are from me to Leo :+1:
+> Jesse Brandenburg
+> I should be able to take care of that
+and thanks for that
+
+[12:16:16 AM] Jesse:
+Linhart Blockchain Consultants have been an integral part of the success of the Elysian project. Their team is very knowledgeable about security related issues and they have a consummate level of professionalism in the time that we have worked with them. I would highly recommend them to any project in the industry because they instantly bring value from the time they are hired and their services are extremely important given the nature of the industry, where top-notch security is an absolute necessity.
+ Sound good?
+
+[12:17:43 AM] Troy:
+Perfect, Thanks for that
+ thats exactly what we needed
+
+[12:19:09 AM] Jesse:
+My pleasure, you guys have been great
+edited 
+[12:26:20 AM] Troy:
+Its been a pleasure working with you and the team, Once we’ve sorted the last few things we can start negotiating a longer-term agreement and look at how best to help grow and protect Elysian, its Merchants and users.
+
+[2:08:54 AM] Troy:
+With the prospect of a future agreement We would like to offer a discount on the pending invoice to help with getting that cleared up and start working on a new agreement.
+
+if that's something that's possible let me know and we can speak more about it, if not the current arrangement is more then acceptable
+
+--- Monday, July 16, 2018 ---
+
+[1:27:41 AM] Troy:
+Hey Jesse, Leo’s spoken with me about the crypto listing website and the plans for the future, If you could get back to me on this so We can get the ball rolling on this or pencil it in for in a few weeks time that would be great
+
+I’ll be unavailable for the next few days while setting up another projects security team, if you need anything urgent feel free to get in touch, if its not urgent just email me and ill respond when i am free
+
+[5:25:31 AM] Jesse:
+Sounds good
+
+--- Tuesday, July 17, 2018 ---
+
+[12:50:33 PM] Troy:
+Hey Jesse, We are going to send through the discounted invoice with an earlier due date if this invoice can be taken care of before the due date at the discounted amount it will allow us to begin negotiations on the future relationship between Elysian and Linhart.
+
+The discount will be valid up until the due date, if the due date passes the full invoice amount and current due date will continue.
+
+Outside of this We also have some more information on the upcoming airdrop and bounties that may help to avoid dumping and gaming of the airdrop and bounty systems.
+
+[1:56:26 PM] Jesse:
+Thanks for the update Troy.
+ 12:30am here in the USA I’m heading to sleep but it’s in the morning for the other guys if you need something ASAP.
+
+--- Thursday, July 19, 2018 ---
+
+[11:10:15 AM] Troy:
+Hey Jesse, We’ve sent that invoice to you and Leo and I’ve spoken with Leo also about getting together to discuss a new agreement.
+edited 
+also wanted to give a heads up on this, as Leo had discussed the crypto listing site with us 
+
+https://medium.com/@LinhartUK/linhart-partners-with-trackico-af09c94d1068
+
+Medium
+Linhart Partners with TrackICO
+TrackICO provides its users with the most reliable information about the best ICO projects and helps ICOs become more successful.
+
+[1:58:11 PM] Jesse:
+Hey Troy yes I received the email.
+ I’ll have to see if it’s feasible to switch to the new invoice because the timeframe is dependent on a few legal concerns.
+edited 
+[2:08:02 PM] Troy:
+Understandable, As per our service agreement, We, The Service Provider are liable for and agreed to indemnify the Principal in respect to any adverse legal action or outcome that could arise from our agreement, so in our situation there should be minimal risk to Elysian
+
+Get back to me when you can with the outcome of the discussion.
+
+[2:17:32 PM] Jesse:
+Need 12h
+
+[2:18:19 PM] Troy:
+Will speak soon :+1:
+
+[10:46:26 PM] Jesse:
+I think we are going to have to stick to the original invoice.
+
+[11:12:36 PM] Troy:
+That's alright, I’ll see if I can have the date on the discount extended, I’ll get back to you on that
+
+[11:44:01 PM] Jesse:
+Not a problem
+
+--- Saturday, July 21, 2018 ---
+
+[1:01:41 PM] Troy:
+Hey Jesse, On Friday the 3rd of August I’ll be available to have a call with either you and/or Leo to discuss the Airdrop/bounty situation, go over some other information and discuss the future relationship between Elysian and Linhart.
+
+If this time isn’t good for you, Let me know as I’ll need to move things around to fit this in before I head off.
+ And unfortunately I don’t think I’ll be able to extend that invoice out, it’s due on the 24th so if anything changes on your end before then feel free to pay the discounted amount, if that date passes payment of the full amount will remain due as per the current due date.
+
+[10:45:40 PM] Jesse:
+Ok about the call should be fine and about the invoice we’re fine paying the full amount
+
+--- Monday, July 23, 2018 ---
+
+[8:46:20 AM] Troy:
+Alright I’ll schedule that in, and that’s no problem
+
+--- Tuesday, July 24, 2018 ---
+
+[7:03:44 PM] Troy:
+Do you also have the IP for each entry logged? 
+https://medium.com/@Elysian_Ely/elysian-airdrop-officially-ends-caa68120d46d
+
+Medium
+Elysian Airdrop Officially Ends
+Elysian has recently completed every phase of its Token Generation Event in early July, having raised its desired hard cap of 7 million…
+ If not we have some resources that can assist with helping find more duplicate entries
+
+[11:25:49 PM] Jesse:
+I’d ask Leo but we will probably need assistance
+ I think we just have the addresses but Nadine did the type form so I’m not 100% positive.
+ Wallet addresses I mean.
+
+[11:33:24 PM] Troy:
+Yeah we can help to cut down on the fakes, Those are going out on the 8th so I’ll make sure we deal with that.
+ One thing that will be good about removing fake entry’s is Elysian can promote that real entry’s will receive more ELY after removing the cheats
+ And that can also be used as a reason for any delays in the airdrop
+
+--- Wednesday, July 25, 2018 ---
+
+[1:34:04 AM] Jesse:
+That’s true good point there
+
+[10:25:50 AM] Troy:
+Any extra time and ELY gained from postponing the airdrop is only going to benefit Elysian and the community
+Less dumping, more holding
+
+[10:26:28 AM] Jesse:
+For sure trust me I’m aware
+
+[10:32:24 AM] Troy:
+The only people who will get angry at the change are those who cheated the airdrop
+
+[10:39:44 AM] Jesse:
+Yup
+
+[4:34:03 PM] Troy:
+So 30 days from the date of that article is when they will be sent out, Buys an extra ~20 days which is more then enough to weed the fake ones out
+
+--- Thursday, July 26, 2018 ---
+
+[12:25:03 AM] Jesse:
+Yep that’s why I wrote it in there
+ By the way
+ These people on telegram chat are just insane
+ Do you know anyone that would be a good community manager for our VIP telegram group?
+ These guys ask 30 questions per hour and have a couple hundred dollars worth of ELY it’s a joke
+ And Leo and I can’t run behind this stuff or we can’t get work done
+
+[12:37:44 AM] Troy:
+I have a few people in mind that might be up for it, They might need to be onboarded and given a general run down of Elysian but that shouldn't be something that would take too long
+ Would be good to collect all of their questions that cant be answered by the CM and having them answered once a month or something like that.
+ That way there off your and Leo's backs daily, but still getting answers so they arent going off in chat
+
+[3:07:58 AM] Jesse:
+True
+ They just never stop though
+
+[12:09:19 PM] Troy:
+If you'd like for the time being invite me into the VIP room and I can answer what i can for now
+
+[1:13:08 PM] Troy:
+We can always speak about something more permanent in the next few weeks but if I can lend a hand I'm more then happy to help
+
+[2:28:17 PM] Jesse:
+I really appreciate it let me run it by Leo. I know he def wants you for the future.
+edited 
+[2:45:20 PM] Troy:
+No problem, I emailed him about the lockup smart contract he wanted us to have a look over also but haven’t had a reply yet
+ We should have that done mid next week for the users in the membership program who are wanting to lock their tokens up
+ I’ll also get in touch with Nadine about the Typeform airdrop over the next few days to grab some info to help with finding fakes entry’s
+
+[3:35:42 PM] Troy:
+And I just wanted to double check that everything’s on track for next weeks invoice? If there are any issues or delays as much advance notice as possible would be appreciated
+
+[11:28:58 PM] Jesse:
+I just messaged him to let him know
+ I’ll update you later today
+
+--- Friday, July 27, 2018 ---
+
+[12:50:06 AM] Jesse:
+Leo invited you to the vip chat
+
+[12:51:05 AM] Troy:
+Thanks, I’ll try to help keep them off you and Leo the best I can
+
+[12:53:59 AM] Jesse:
+Don’t feel pressured to always be on there
+ Just whenever you have a minute
+ And we really appreciate it... I have a call with him shortly about the invoice
+
+[12:56:59 AM] Troy:
+Yeah that’s more so what it’ll be, If I notice something pop up that I can answer or direct them to the info I’ll be more then happy to
+> Jesse Brandenburg
+> And we really appreciate it... I have a call with him shortly about the invoice
+Let me know when you do and if there’s anything else we can do to assist
+
+[1:07:36 AM] Jesse:
+Sure will do
+
+[3:55:17 AM] Jesse:
+Is it fine to give you another 5k in 5-7 days?
+
+[5:34:36 AM] Troy:
+If the full amount can’t be paid by the due date, A part payment of at least 10k would be preferred given the amount outstanding.
+
+I’ll get back to you with our official response in a few hours
+
+[5:44:52 AM] Jesse:
+Ok let me see what I can do
+
+[8:47:17 AM] Troy:
+Let me know, If a part payment of 10k can be done earlier I can again extend another revised invoice and avoid that one coming due
+
+[12:27:42 PM] Jesse:
+Ok
+
+[5:08:58 PM] Troy:
+Yeah We would need minimum 10k of the pending invoice paid before the due date to reissue another extended invoice.
+ The due date is the 31st so ideally we need this sorted in the next few days.
+
+--- Saturday, July 28, 2018 ---
+
+[10:09:18 AM] Troy:
+Let me know when you have an update on this
+
+[12:03:13 PM] Jesse:
+Alright sure
+
+[10:02:30 PM] Jesse:
+Ok so
+ We can’t realistically pay 10k by the 31st but we can for sure do 5k if the rest of the invoice can be paid in increments leading up to when advisors are paid, which is mid September. I just spoke with Leo and he said for sure he wants you handling security services in the future for us so perhaps we can jump on a call next week the 3 of us and speak about the invoice and fees for your future services as well?
+edited 
+[10:17:31 PM] Troy:
+Can the 5k be taken care of now so I can get things moving and we can lock this in.
+That way we can start the week with the call about the payment schedule for the rest of the invoice and future services.
+
+[10:32:09 PM] Jesse:
+We can take care of it now as long as we address the rest of the invoice at the end of August, or at the very least a portion 2/3 of the way through August.
+ If that’s fine send Leo your Eth address he’s gonna send tomorrow it’s late in Singapore
+
+[10:37:22 PM] Troy:
+That’ll be fine, We will reissue the invoice for the end of August and if it can be taken care of sooner then that it would be greatly appreciated.
+edited 
+and ill send that to Leo but it’ll be the same address as on the invoice
+
+[10:48:51 PM] Jesse:
+Cool
+
+[10:52:28 PM] Troy:
+I’ll be available Tuesday after 12pm GMT+1, Our COO is going to join us for the call, Let me know a time and we can lock in for next week
+ if thats a bad time let me know, I am available eariler on Wednesday
+ anytime after 9am GMT+1
+
+[11:03:24 PM] Jesse:
+I’m checking right now with Leo to see when he’s available also
+
+[11:20:42 PM] Troy:
+Alright, Ive sent Leo a message, Let me know when you've got a time
+
+[11:27:22 PM] Jesse:
+What about 3pm GMT+1 on Tuesday?
+
+[11:28:08 PM] Troy:
+That works for us :+1:🏻
+
+[11:29:06 PM] Jesse:
+Sounds good
+
+--- Sunday, July 29, 2018 ---
+
+[11:52:08 PM] Troy:
+Hey Jesse, We are still waiting on Leo, but I wanted to make sure this got to you
+
+[11:52:22 PM] Troy:
+Forwarded message: Troy Linforth [Jul 29, 2018 3:13:30 PM] 
+https://www.hackread.com/ico-hacked-hackers-steal-millions-kickico-blockchain/
+
+HackRead
+ICO hacked: Hackers steal $8 million from KICKICO Blockchain network
+Another day, another ICO hacked - This time, KICKICO has suffered a security breach letting hackers steal $8 million.
+
+[11:52:38 PM] Troy:
+Smart Contract Exploited via Compromised Private Key
+
+[11:53:48 PM] Jesse:
+Wow crazy
+ I’ve been talking with Leo the last hour he knows to send
+
+[11:54:37 PM] Troy:
+Yeah, theres some good tips about keeping the SC keys secure in that article
+
+[11:58:16 PM] Jesse:
+Good looks I’ll share it with the boys
+ This stuff always scares me
+
+--- Monday, July 30, 2018 ---
+
+[12:03:09 AM] Troy:
+KICK are lucky the hackers didnt change the ownership to keys they controlled, They left them as the compromised keys, which let KICK add fresh cold storage keys as the owner
+
+[4:14:32 AM] Jesse:
+Leo wants you to post in the powerlaunch chat instead of the employees one
+
+[1:11:33 PM] Troy:
+> Jesse Brandenburg
+> Leo wants you to post in the powerlaunch chat instead of the employees one
+Will do.
+
+--- Tuesday, July 31, 2018 ---
+
+[10:59:32 PM] Jesse:
+Still on for a half hour from now?
+ If you can’t talk let me know now
+ Cause I have something else I gotta take care of but otherwise we’re still on
+
+[11:06:17 PM] Troy:
+I did message Leo about rescheduling the call earlier today , Sorry it didn’t get to you, should be Thursday or Friday this week depending on which is better for you
+
+[11:07:49 PM] Jesse:
+No worries
+
+--- Wednesday, August 1, 2018 ---
+
+[1:13:28 AM] Troy:
+Hey Jesse, The new invoice should come out today, The due date is going to be the 31st of August and will require the full amount, If like you mentioned it can be taken care of 2/3 of the way into August it would be greatly appreciated.
+
+Let Me know when the video is released, We have noted that the gleam.io bounty has been pushed back to help vet the entries, We still have some data to assist with the airdrop and bounty that needs to be discussed soon.
+
+[3:01:49 AM] Jesse:
+Sounds good thanks for the update
+
+--- Thursday, August 2, 2018 ---
+
+[12:58:45 PM] Troy:
+Is tomorrow at the same time good for you?
+
+[1:10:10 PM] Jesse:
+The day after is better
+
+[2:59:56 PM] Troy:
+That works for us
+edited 
+[6:30:48 PM] Troy:
+Is that time fine for you? We’ve sent you the updated invoice with the 31st of this month as the due date
+
+[11:22:47 PM] Troy:
+I’ve messaged Leo the above time and date, Get back to me when you can as We’d like to sit down together and discuss a few matters heading into this month.
+
+--- Friday, August 3, 2018 ---
+
+[12:13:48 AM] Jesse:
+Ok
+ One quick question
+ You guys spoke about a smart contract for locking up merch program tokens?
+ I was told that you guys originally agreed on it but you don’t have any available employees, correct? This is really important to the company, is there any chance we can come to an agreement?
+ I understand you guys might be frustrated about the invoice not being fully met yet, but if you were in our shoes you would understand all of the difficulties we are having right now and trying to make it work with everyone.
+ Our team is very small because me, Leo, Levon, and Nadine are the only ones working and everyone else is apathetic
+ So it’s putting us in a tough spot as you can see we’re pushing everything back because it’s too much work to do and too little help
+ Our advisors have done absolutely nothing, the rest of our team has done absolutely nothing
+ It’s just the core guys that work our tail off trying to run the whole establishment
+
+[1:05:22 AM] Troy:
+We mentioned that We would see if someone was able to take a look over the lockup SC and provide some info on the ownership, Our guys are currently assigned to other SC audits but We should have someone free in the next few days.
+ While the invoicing has been frustrating We do understand that issues happen but some team members felt that there is the hesitation to pay the full amount due to the tendancy of advisors and the like to leave a project once payment has been received.
+ Rest assued we arent planning on leaving Elysian anytime soon, We plan on providing what assistance We can into the forseable future.
+edited 
+We’d be more then happy to have someone assigned to the SC and have that turned around ASAP if We could come up to 50% of the full invoice, this would require 10k at the curent amount owing.
+This would be the only way currently that We could allocate personal and resources towards asssisting at this time.
+
+If We had staff without other assignments, This wouldnt be an issue and We would be happy to assist.
+ We understand the complexities of conducting an ICO and the post-ICO issues and like to work with our clients towards a benificial outcome for both parties, So let me know if this isnt possible and We can discuss other options.
+
+From what We’ve seen it visible who carrys the load within the group and the work you guys do is great, It's a let down that the advisors aren't assisting and other members aren't pulling their weight, I'f there are any areas you need help in let me know and I might be able to refer a real advisor who can assist
+
+[1:19:58 AM] Jesse:
+I see
+ So you need 10k?
+
+[1:26:15 AM] Troy:
+When the invoice has been paid up to 50% which at this time would require 10k, We can allocate resources and personal towards the SC and beyond, With more than 50% owing the team aren't prepared to allocate resources towards additional work outside the bounds of our agreement.
+
+[2:32:13 AM] Jesse:
+That’s reasonable I understand
+
+[2:37:59 AM] Troy:
+If your able to make that work let me know ASAP, So we can try and work towards another solution if this isn’t possible.
+
+[3:02:25 AM] Jesse:
+Alright
+ By the way is the call still happening tomorrow at the same time?
+ 3pm GMT + 1?
+
+[8:48:27 AM] Troy:
+Yeah Saturday at 3pm GMT + 1
+ As long as it’s good for you We are available
+
+[10:32:31 AM] Troy:
+Let me know so I can lock it in
+
+[10:32:57 AM] Jesse:
+It’s cool with me but I gotta check with Leo
+edited 
+[10:50:28 AM] Troy:
+Alright, We can discuss it on the call but what do you think the chances are of the above being able to be taken care of. 
+Giving me a heads up I so can ensure that We don't reassign someone when they come off an audit so they aren't tied up would be appreciated
+
+[11:28:39 AM] Jesse:
+50/50
+ Leo ultimately makes the call
+edited 
+[11:30:13 AM] Troy:
+Alright, Let me know when you’ve spoken with him and confirmed the time, If that time isn’t good We're available Sunday almost any time between 10-4 GMT+1
+
+[1:34:36 PM] Troy:
+I’ve let Leo know that We have a team that finishes on their deployment tomorrow, and that we can hold off assigning them for maybe 24 hours while We work this out.
+
+Our next available team won’t be till the end of next week, So I’ll try to keep them free
+
+[1:35:12 PM] Jesse:
+Ok I see
+edited 
+[5:57:02 PM] Troy:
+I'll be available for the next 5+ Hours, If Leo cant lock in the call before I'm unavailable We will need to reschedule it to a time better for both of us.
+edited 
+[8:50:57 PM] Troy:
+We’ve locked in Tuesday at the same time for our call and get back to me on the other matter ASAP
+
+[11:25:02 PM] Jesse:
+Ok
+
+[11:48:39 PM] Troy:
+I’ll let you know when We hear back from Leo about the lockup contract.
+
+--- Saturday, August 4, 2018 ---
+
+[1:53:01 PM] Jesse:
+Tuesday at GMT+1 3pm?
+
+[1:53:34 PM] Troy:
+:+1:🏻
+ We’ll be available most of the day so if that time doesn’t work we can do it earlier
+
+[1:54:48 PM] Jesse:
+That time works fine
+
+[4:51:44 PM] Troy:
+Forwarded message: Troy Linforth [Aug 4, 2018 4:41:06 PM] 
+I’ll be able to hold the team till the end of the day UK time, After that We will need to speak as to the next teams availability during our call.
+Forwarded message: Leo Ameri [Aug 4, 2018 4:49:38 PM] 
+please manage these things with Jesse, I'll be flying so will be hard for me to reply within the next 48h.
+
+[4:54:29 PM] Troy:
+I'll check in with you towards the end of the day and see if you've got an update on this
+
+--- Sunday, August 5, 2018 ---
+
+[12:46:39 AM] Troy:
+I’ve got about an hour left before I head out, If we don’t have something tomorrow morning We are going to be assigning them elsewhere.
+
+[12:48:10 AM] Jesse:
+Ok that’s fine
+ You can assign them elsewhere
+ We can’t pay 10k by tomorrow
+ I’m sorry but it’s just not feasible
+edited 
+[12:56:15 AM] Troy:
+That's fine, The next team will be available around the 14th, If things have been sorted by then We can discuss assigning resources towards Elysian for the SC and beyond
+ Thanks for getting back to me
+
+[1:05:31 AM] Jesse:
+No problem looking forward to the call Tuesday
+
+[1:16:53 AM] Troy:
+Same here, Looking forward to discussing the current situation and how We can go about assisting.
+
+[1:55:23 PM] Troy:
+Just wanted to give you a heads up that We aren't monitoring the forum currently, We noticed it go live but won't be able to allocate resources towards that until after We’ve spoken on the call
+
+[2:17:11 PM] Jesse:
+Its fine Troy
+ I understand what you guys are doing
+ I wasn’t born yesterday
+ Business is business
+
+[2:30:05 PM] Troy:
+Apologies if that came across rude, We simply noticed the forum go live and just wanted to let you know that We aren't able to allocate resources until We've spoken this week so you can monitor the site yourselves and ensure everything is operating correctly.
+
+Your site now contains users data and should be adequately protected, It's not our job to ensure these measures are in place but as a courtesy and wanting to assist where possible We felt like notifying you that We are still monitoring the main domain and addresses, But will not be adding any additional addresses at this point in time.
+
+[3:42:00 PM] Jesse:
+No worries
+ Thanks for the update
+
+[4:17:34 PM] Troy:
+No problem
+
+--- Monday, August 6, 2018 ---
+
+[2:35:56 AM] Jesse:
+Hey Troy, are you guys looking for more work? I can make an introduction for you to a good friend who’s building a massive project and needs cyber security help
+ He’s our best advisor he’s very reputable and has a lot of connections in the industry
+ If you are taking on clients I’ll make the intro for you
+
+[3:13:21 AM] Troy:
+If you’d want to send some details along to onboarding@linhartblockchainconsultants.com I’ll make sure someone gets back to you after the weekend.
+We would need to go over their needs and schedule a time to discuss the project.
+
+[3:14:41 AM] Jesse:
+Ok I see
+ Graham Doggart will be contacting you
+ His project is called AuBIT
+
+[4:27:42 PM] Troy:
+Thanks, I’ll keep an eye out for his email, Will touch base tomorrow to confirm our call
+ Looking forward to speaking soon
+
+--- Tuesday, August 7, 2018 ---
+
+[1:47:22 AM] Jesse:
+Likewise
+
+[3:56:05 PM] Troy:
+Hey Jesse just want to confirm we  are still on for today’s call, Let me know.
+
+[10:20:11 PM] Jesse:
+Yup
+ 1 hour correct?
+
+[10:20:44 PM] Troy:
+Yes Leo spoke with us eariler, 1 hour is good for us
+
+[10:21:51 PM] Jesse:
+Is it at 2:30 or 3?
+
+[10:24:20 PM] Troy:
+I think its 3 but you might need to check with Leo
+
+[10:26:12 PM] Jesse:
+3 is fine
+
+--- Wednesday, August 8, 2018 ---
+
+[3:02:37 AM] Jesse:
+We can get you another installment in 7-14 days
+
+[11:15:59 AM] Troy:
+That would be great, If it's closer to 7 I’ll be able to hold up the team that comes off on the 14th while we hammer out a new agreement for the future white label services and then get them assigned to assist in whatever way needed
+
+--- Thursday, August 9, 2018 ---
+
+[12:01:15 PM] Troy:
+Let me know what your thoughts on that are so I can get the ball rolling and make sure things are in place for next week
+
+[2:00:26 PM] Jesse:
+I’m doing everything I can in my power right now to solve all issues and invoices for service providers.
+
+[2:06:07 PM] Troy:
+That’s great, If there’s anything We can do to assist and make the process easier let me know.
+
+--- Friday, August 10, 2018 ---
+edited 
+[12:33:53 AM] Troy:
+Keep us updated on the platform development and the invoicing situation, Will get in touch with Leo about another call soon to speak more about the services and whitelabel side of things.
+
+[12:47:02 AM] Jesse:
+Sounds good absolutely
+
+[1:04:09 AM] Troy:
+I’ll be away for the weekend so get back to me ASAP or by Monday so I can lock the team up or I may need to have them placed elsewhere
+
+[1:04:51 AM] Jesse:
+I understand
+
+--- Sunday, August 12, 2018 ---
+
+[12:47:30 PM] Troy:
+Jesse, Nadine has messaged me about a DDOS threat she received
+ Have you been informed about this?
+
+[12:47:52 PM] Jesse:
+Yes
+ Just recently
+
+[12:50:23 PM] Troy:
+I’ve asked her to forward the email or message received to us so We can take a look over it and provide an assessment on the matter
+ As far as We are concerned, It’s an empty threat as you’ve got cloudflare installed and operational on the domain
+
+[12:51:19 PM] Jesse:
+That’s what I figured
+
+[12:51:21 PM] Troy:
+We haven’t detected any DNS changes that would remove their protections
+
+[12:52:19 PM] Jesse:
+Perfect
+ Thanks for the update I appreciate it
+
+[12:56:45 PM] Troy:
+No problem, Get back to me on if I should hold the team up this week.
+
+I’m waiting on Leo to get back to me about a call this week to go over some new additions to our services that is going to benefit the platform and make the whitelabel services easier to offer going forwards.
+
+[12:57:12 PM] Jesse:
+I’m also waiting to speak to him he’s currently asleep
+
+[1:26:06 PM] Troy:
+Alright, Let me know when you’ve spoken with him and then We can go from there.
+
+--- Monday, August 13, 2018 ---
+
+[12:23:47 AM] Jesse:
+:+1:
+
+[7:37:20 AM] Jesse:
+Ok so after speaking with the team internally, we can offer you this:
+In return for absolving the current invoice balance, we will place you on the CryptoVerse website as the #1 Security option for the first 3 months. We will have over 1,000 projects in that time period listed on CryptoVerse, all of which will have access to your services. We will guarantee to get you projects paying you at least twice as much as you would receive from the remaining invoice balance. In fact, we already have 2 projects which will need security services at one point in the next 6 weeks, not including Graham Doggart’s AuBIT, which I’ve already introduced you to. This way you earn twice as much as you would now in USD, and most likely more, and you put your company in front of over 1,000 projects which will be listed on our platform. This will give you exposure to most of the projects in the entire industry with Linhart being the ONLY Security solution that we offer on the entire CryptoVerse platform for the first 3 months. We think that this a fair trade, given that the invoice balance for Elysian is what you would make on just one project out of 1,000. We are willing to put a guarantee that you make at least 2x the invoice balance, in USD, in a contract. In other words that would be 70,000 guaranteed for future projects which most likely would be much more over time, since we would keep recommending you to projects at any given stage.
+
+If you agree to these terms, let me know and I will have a contract drafted. Thank you.
+edited 
+[9:55:52 AM] Troy:
+So I've spoken with the team this is where We are at. If you can facilitate a payment of $10,000 along with the contract for the above mentioned We can consider the invoice paid in full and move forward with this new partnership.
+
+We understand that with the ETH rate and market conditions these compromises must be made from time to time.
+
+This is the best resolution for both parties and will let us start providing services and integrate with the Elysian platform and ecosystem.
+
+[10:12:44 AM] Troy:
+Get back to me ASAP as I have limited availability heading into this week
+
+[10:15:53 AM] Jesse:
+Alright let me see what Leo says when he wakes up
+
+[4:35:08 PM] Troy:
+Please do, I’ll be available for most of his day and would appreciate this being resolved while I’m in the office.
+
+If Leo would like to speak with myself I am available to take a quick call at any point to discuss this.
+
+--- Tuesday, August 14, 2018 ---
+
+[12:39:18 AM] Troy:
+Jesse, Is there any update on this.
+ I’m heading out of the office so let me know ASAP as tomorrow is the last day I’ll be available until the end of the week.
+
+[12:55:35 AM] Jesse:
+I understand .. my apologies it's been a really busy morning for both myself and Leo. I'll get you an update by the morning your time , I know it's late there.
+ one sec
+ this is directly from Leo regarding your offer:
+ Unfortunately would this just not make any sense for us. We would in other words pay while bringing you much more than our current bill with future clients. Plus giving the fact that we have with other options a cheaper alternative. Keep in mind that with the contract we would even guarantee you a much higher amount from future projects. So there would basically no downside for you. Don’t forget that we already have 1-2 projects which would def. need security services.
+
+[1:06:28 AM] Troy:
+I’ll be available for the next few hours, I’m on UK time currently
+edited 
+So the main issue We have is that We’ve already offered a reasonable discount on the invoice that would just cover our staffing and infrastructure costs for the services We provided under our agreement.
+
+We’ve done this out of good faith due to the market conditions and to enable both projects to move forwards with the new partnership.
+
+$10k brings us to 50% total paid of the original invoice.
+
+Paying 50% in total of the price Leo personally negotiated is something that’s going to be required regardless of any future offer of work.
+
+It doesn’t make sense for us to enter into an agreement to provide services, whitelabel or otherwise, while having provided our services during your ICO at our own expense.
+
+[1:36:12 AM] Troy:
+Get back to me about this once Leo has responded.
+
+[2:11:31 AM] Jesse:
+I’ll see what he says he’s at dinner currently
+ But I have a call with him afterwards
+
+[10:29:53 AM] Troy:
+How did the call go.
+
+[10:33:09 AM] Jesse:
+To be honest we didn’t really discuss it more than 30 seconds because we have several issues to discuss about the project right now but he just doesn’t think it’s feasible unless we have more time.
+
+[10:47:51 AM] Troy:
+We are well aware of these other issues.
+
+How much time would be required? 
+
+While We are open to waiving a large percentage of the invoice in exchange for the previous mentioned listing, This offer won’t remain pending indefinitely.
+
+[11:19:41 AM] Jesse:
+A guess would be 7-14 days but could be sooner could be at the end of that timeframe
+ But it’s a rough estimate
+edited 
+[11:41:16 AM] Troy:
+The only way I could keep the offer pending out 14 days, Is if you can facilitate $5k now, and the remaining $5k in the 7-14 day period.
+
+Without that, The offer will stand until Friday COB GMT +1, After that time our current invoice will continue on, no further discount will be offered and no negotiation on the matter will be conducted.
+
+We have been nothing but understanding, flexible and accomodating during the Post-ICO period, but this is as far as those courtesies go.
+
+--- Wednesday, August 15, 2018 ---
+edited 
+[12:05:15 PM] Troy:
+Hey Jesse, We've spoken with Leo and reaffirmed out position, I've yet to hear back from him but Our offer will stand until Friday COB GMT+1.
+
+As discussed with Leo, After that date if We haven't had a response We will need to pass on the offer presented
+
+[12:11:35 PM] Jesse:
+Ok he told me you guys spoke I assumed you agreed on something
+ or at least that some information was given
+
+[12:14:55 PM] Troy:
+Forwarded message: Leo Ameri [Aug 14, 2018 6:52:54 PM] 
+Hey Troy, sorry for the late response. Just so many message in my inbox that it takes me some time to go through all of them. 
+
+Regarding the offer. The reason why we offered you guys that offer is because we have already some interested projects which will def. need your services. Which is why we guaranteed you a specific amount. If we end up paying, we could simply outsource for a cheaper price. So that's why we thought it would be a fair offer, so that guys would be guaranteed making much more than the current invoice and that we would save on the current bill. By placing you as the first security provider, you receive a lot of traffic, plus the fact that the projects we work with will only be directed to your company and not another one, which should be worth much more than the current bill when thinking long term. 
+
+If you say you cant accept it and you would like to get the current bill paid to move on, I totally understand, in this case would I speak to Jesse and the team to get it cleared. Just keep in mind that in this case we would not be able to undo it once we would go for the alternative for the projects we will work with.
+Forwarded message: Troy Linforth [Aug 14, 2018 7:15:50 PM] 
+Hey Leo, No problem, We know What it’s like trying to stay on top of things while managing multiple projects and people.
+
+While We are very interested in the offer, If the conditions We’ve requested to added can’t be met to enable our bare infrastructure and personal costs for the Elysian deployment to be covered We will need to forgo the offer.
+
+We would prefer to work this towards a resolution that enables our costs be covered for our services while providing a substantial discount on the full invoice in light of the future relationship.
+
+If this can't be facilitated We would require the current invoice to be paid and unfortunately and regrettably part ways in relation to future services.
+
+[12:24:20 PM] Troy:
+This was the conversation last night, We are still awaiting a response, I'd prefer this be resolved before Friday.
+
+Our offer will remain pending until then to enable discussion on the matter.
+
+[12:25:23 PM] Jesse:
+Ok I see thanks for sending
+
+[12:43:33 PM] Troy:
+No Problem, Our position has been made very clear and We believe this is the best outcome for both parties.
+
+Will be awaiting Leos reply on this.
+
+--- Thursday, August 16, 2018 ---
+
+[7:13:56 AM] Jesse:
+Hey Troy,
+
+So regarding our current status - the reason that we gave you the CryptoVerse offer is because Linhart would be a monopoly in the security department on our platform for the first 3 months.
+
+When you signed on to Elysian, you signed on as a security advisor. Thus, it lumps you in the same category as the other advisors in terms of Ethereum payments instead of in native tokens. So it would probably take months to solve this issue before being able to authorize the payment, which is why this solution would bypass this issue as well.
+
+Also, we’ve already paid you 10k out of pocket as well since then (which we had to report and sign paperwork for because it was premature before we contacted both our domestic and international legal teams). For us to even consider moving forward with Linhart and giving you access to this massive client base, the rest of the invoice will have to be wiped clean. We will not be able to pay any more of the invoice, I need to be clear about this. It is in the best interest of Linhart to accept our offer because you will be seen by thousands of projects through CryptoVerse.
+Also don’t forget about the guarantee we proposed which makes sure that you don’t go out of this with at least twice as much as you would with the current bill. This would be in a contract.
+
+Keep in mind that we would really like to work with you which is why I recommended this solution to the team, it would be much better for the reputation of your company to be one of the verified and most legitimate security firms in the industry.
+
+Thank you.
+
+[10:47:41 AM] Troy:
+Hey Jesse, We are going to have to pass on the offer presented and revoke our pending offer also.
+
+A full written response will be provided shortly.
+
+[10:50:55 AM] Jesse:
+Sorry to hear
+ But it does make me wonder
+ Do you actually have a registered company and full team behind you?
+ You push quite hard to get payments from us and the work you provided was good but not 50k worth of work.
+ Including trying to sell us the pentesting services.
+ I'm just curious.
+ No hard feelings either way.
+ we dropped our hard cap from 19 million to 7 million and every other payment (including the team who hasn't been paid yet) was dropped as a reflection of the drop in the hard cap
+ ETH has dropped 50% since our crowd sale as well
+ meaning that after marketing and misc expenses, we have very little left, hence our situation
+ So at least now you understand our situation
+ Since the drop in ETH caused us to lose about half of our funding and after other expenses, this is why we are doing this with everyone, not just Linhart.
+ Paying these invoices in full will compromise the existence of the project.
+ It's just something we simply cannot do currently.
+ I don't expect you to understand from our side but that's where we're at..
+ It's up to you if you want to find some sort of compromise
+ Linhart has already received 3 payments equaling more money than most service providers, and the fact that you dont want to take 100+ future clients that will raise you over 1m is concerning to me, its a bit shady.
+ I have to be honest
+ So that's why it leaves me wonder
+ wondering
+
+[11:10:43 AM] Troy:
+> Jesse Brandenburg
+> Linhart has already received 3 payments equaling more money than most service providers, and the fact that you dont want to take
+Past results aren’t indicative of future results.
+
+Not only are there no past results, any future results from your platform you are predicting is just that, Predictions.
+
+Unfortunately our bills can’t be paid in predictions.
+
+Just being honest.
+
+[11:11:14 AM] Jesse:
+Clients are being listed on CryptoVerse for free
+ We've already spoken to over 500
+edited 
+[11:11:41 AM] Troy:
+We are one of the few non offshore companies in compliance  with UK law.
+
+https://beta.companieshouse.gov.uk/company/11226051
+
+
+The amount for the work was negotiated by Leo, He deemed the amount sufficient for the services provided, The amount didn’t increase while we added additional services along the way.
+
+
+We have offered various reductions in the full invoice and even offered to peg our payment to the ETH rate during the sale to assist as We understand the situation that the market has left us if.
+
+We have stated that We would reduce the full invoice amount by 50%, This would require 10k to clear the invoice and part ways, With or without the CryptoVerse listing.
+
+beta.companieshouse.gov.uk
+LINHART BLOCKCHAIN CONSULTANTS LTD - Overview (free company information from Companies House)
+LINHART BLOCKCHAIN CONSULTANTS LTD - Free company information from Companies House including registered office address, filing history, accounts, annu...
+
+[11:11:47 AM] Jesse:
+But i understand your concerns
+ I'm an honest person. Leo is an honest person. We can eventually honor that with Linhart, but we simply can't do it right now I'm sorry.
+ We can put it in writing if you like.
+ Leo and I are working 16 hours a day to do everything we can to make all parties happy.
+ Service providers, advisors, team members
+
+[11:25:33 AM] Troy:
+I don’t know how you plan on being able to placate every service provider and advisors who’s being informed that Elysian cant honor the current agreements within reasonable timeframes.
+
+We have offered over and over again compromise after compromise, If Elysian can’t come to the table We are going to have to take action to ensure the protection of our own interests is maintained going forwards.
+
+Our full statement on this this will be provided shortly.
+
+[11:26:03 AM] Jesse:
+Wow Troy I didn't expect this from you to be honest
+ Alright, if you want to go this way then we go this way
+ But it won't solve anything
+ You will spend more money on a lawyer then what you receive from us
+ I've tried to be civil with you because I like you I think you're a good guy
+ I've literally considered selling my personal crypto portfolio to pay you
+ That's how good of a guy I am
+ But Troy I promise you
+ If you take this route
+ I will personally expose Linhart as legitimate scammers
+ starting with CryptoVerse and you as an advisor
+ Writing articles about it
+ As for us, go ahead and release a statement
+ bad publicity is good publicity for us right now we have a super small community
+ If you give me some time i will try to pull some strings to get you the money
+ If not,
+ I will personally do whatever it takes to bury you
+ and i really mean WHATEVER IT TAKES
+ You're clearly an absolute scammer if you decline +1m in revenue for a 10k payment
+ pure scammer
+ No one in their right mind would ever do that
+ I vouched for you to everyone that asked about Troy
+ Oh he's a good guy, a good worker
+ This is not a game you want to play
+ I have nothing to lose
+
+[11:55:36 AM] Troy:
+First of all Jesse You might want to slow down and take a read over my message and see that I didn’t mention legal action or going public at all.
+
+Jumping to that gun is premature and not a good sign of where your at with this right now. 
+
+I believe you are a good man, and an honest man. It means a lot to me that you would consider selling your personal portfolio to pay us, and I truly mean that. It's not something I, or Linhart want. We never wanted this to turn into a stressful confrontation or partnership, and from the get go we have believed in Elysian which is why We continued to assist outside the terms of our agreement.
+
+To suggest that due to someone not wanting to be listed on your platform makes them a scammer is silly, If the compromise We offered could be met We would be honoured to list on the platform, it doesn’t make sense for us to essentially pay to be listed and be given the chance to recoup the costs of the Elysian deployment from future work.
+
+[11:57:47 AM] Jesse:
+I'm just sick of the bullshit and I'm not taking any shit from anyone anymore
+ No more Mr. Nice Guy
+ I always give people a chance and the benefit of the doubt
+ I have jobs lined up in NYC or LA anytime I want
+ I could leave this project whenever I want
+ And go make way more money than I do here
+ But I made a promise to Leo
+ Cause I like Leo and respect his vision
+ The rest of the team is lazy and worthless
+ I'm the only person on this team that gets tasks done besides Leo
+ Like I said Troy i do like you
+ I'm sorry for flipping out
+ But every word I said is true
+ I have nothing to lose
+ I'm not the person to  play games with right now
+ I will do whatever I can to get you your money
+ But I don't know how long it will realistically take
+
+[12:02:59 PM] Troy:
+> Jesse Brandenburg
+> I'm the only person on this team that gets tasks done besides Leo
+Trust me, That is something that doesn’t go unnoticed at all, It’s very obvious who’s committed and actually pushing the rest of the team along, This is why We’ve ensured that We communicate with you, If we don’t it typically doesn’t get done.
+ We understand how stressful business is, especially when you feel like your team members aren't pulling their significant weight. 
+
+Trying to make everyone happy can be both a blessing and a curse, and cause unimaginable stress, and a lot of people would not understand. 
+
+We have no hard feelings from what you said earlier, and if we came across money hungry we apologize, we have to make everyone on our end happy too.
+
+I have had 20 hour days, waiting for timezones that are so far behind me, it is hard. 
+
+We just want a fair compromise on our behalf, as we feel we have been fair towards Elysian, we provided what we believe to be good services, there was no catastrophic security failure as a result of our hard work. 
+
+We understand the price of ETH and the hard cap change was hard on you and Elysian, it was hard on us too, on our own holding of ETH during the market downtrend and as such we needed to try and sort this out in a timely manner.
+
+We did not want to come across as irrational or short sighted. And for that we apologise.
+
+I’ll send you our written response in the next day or so, mainly just encapsulating this discussion, and then We can work forwards from there.
+
+[12:11:00 PM] Jesse:
+I understand your position I can't blame you.
+ There's just very little I can do for you at this exact moment.
+ But rest assured I am not, and I never have, ignored you and your concerns.
+ I want nothing more than to settle up with you guys.
+ I don't want people breathing down my neck 24/7 from all different time zones I can promise you that.
+ So please be patient. I know it's difficult, but i'm doing the best I can
+ That's the honest truth
+ I have to manage this with several people while trying to keep the project afloat alone with Leo
+ 
+ 
+   
+
+
