@@ -1,0 +1,131 @@
+Troy Linforth [12:00 PM]
+Troy is the CEO and Co-founder of Linhart Blockchain Consultants Ltd, He has been providing communications and security consulting services to various blockchain startups since 2015. In his short time as CEO and Co-founder of the UK based consulting firm, Troy and his team of blockchain security professionals have provided protection and security during crowdfunding for multiple blockchain ventures.
+short bio for you for the website, Let me know if its too long
+
+Jesse [12:01 PM]
+Hey Troy, nice to meet you.
+
+Troy Linforth [12:02 PM]
+Hi Jesse, Nice to meet you too
+
+Jesse [12:02 PM]
+Word Document 
+Bug Bounty Program.docx
+Word Document
+Leo told me to send you over the bug bounty page.
+We are just missing the actual tasks required for the bug bounty.
+A list of tasks that are eligible and ineligible for rewards.
+
+Troy Linforth [12:21 PM]
+Check out https://hackerone.com to run the bug bounty from, Its a very well respected and frequently used resource by the security community, the level of freelance work that has resolved critical issues is via hackerone is outstanding
+HackerOne
+Bug Bounty, Vulnerability Coordination - HackerOne
+Bringing you an extensive network of ethical hackers and bug bounty programs, our platform streamlines vulnerability coordination to help improve your digital security.
+When setting up it helps guide you with setting up the scope and exclusions along with other disclosure related requirements
+
+Jesse [12:33 PM]
+Great thanks
+
+Jesse [9:17 AM]
+Hey Troy, is it possible to produce that list of tasks that I mentioned before for the bug bounty program? The ones that are eligible and ineligible?
+This is a foreign language to me I'm a finance/numbers guy. Leo asked me to ask you about it.
+Theoretically it should take you probably 10 minutes max.
+The rest is complete besides that list.
+
+Troy Linforth [9:56 AM]
+Do you have a copy of the live website on a testing/staging environment ?
+
+Jesse [9:56 AM]
+Please direct that question to Levon Tikoyan
+
+Troy Linforth [10:09 AM]
+Will do, Levons gotten back that there’s no testing environment so we can replace the “website” with the live links
+
+Standard out of scope information:
+
+Scheduled infrastructure changes
+DDoS/DoS attacks
+Any bugs which do not compromise account or user security
+Any bugs caused by operating system virtualization or emulation
+Spamming
+Social engineering (including phishing) of Elysian staff or contractors
+
+Scope.
+
+Any exploits or bugs relating to;
+“Main website” eg https://elycoin.io
+-“token sale website” 
+-“token sale contract” 
+-“token contract”
+
+
+I’m not sure the specifics for the token sale website address, and for the token sale contract and token contract, if you’ve got a version live on the testnet use that one
+Elysian
+Elysian
+Cryptocurrency meets Ecommerce
+https://www.elycoin.io/assets/images/elysian.png
+
+Jesse [10:12 AM]
+Sounds great, thanks for the help.
+
+Troy Linforth [7:56 PM]
+Hey Jesse, We are ready to move forwards with expanding the team and they’ve officially been assigned, We’ve been actively assisting and will continue assisting with the TGE but this should help take the load off and provide better protection to Elysian and the community. (edited)
+
+Jesse [8:02 PM]
+I see
+What do you mean by this specifically, that you need your payment?
+I don't completely understand
+Unless, do you mean with website surveillance?
+Thanks for the help btw we are very grateful to have you guys around.
+
+Troy Linforth [8:09 PM]
+I’m just letting you know that we’ve completed the security audit and now as planned have assigned the team member to assist with the TGE work.
+The invoice has a few days before it’s due date so whenever that can be taken care of let me know.
+
+And no problem, it’s one of the reasons we added another person so there’s more of us around, and extra pair of hands or eyes comes in hand when the unexpected hits! You can’t prepare for things like that but you can do your best to fix it once it’s happens
+
+Jesse [8:10 PM]
+Yeah I mean I'm so upset at this Applicature issue I could lose my mind.
+Thanks for deploying more guys
+I understand it rarely goes perfectly but to have a 2 and a half hour delay at the beginning just
+I mean I have some choice words for those guys
+Especially because they completely lack professionalism
+If you knew how they handled these situations you would laugh out loud
+
+Troy Linforth [8:13 PM]
+There’s still some issues with the dash that are causes the bad rejections.
+
+Oh from some of the previous dashboard issues and how they continue to be small things that went unfixed i can imagine
+https://etherscan.io/tx/0xee2d36852117d6d2e314f7ba19a640b66c659c296c6fca4638289bc2afcaf37a
+etherscan.io
+Ethereum Transaction 0xee2d36852117d6d2e314f7ba19a640b66c659c296c6fca4638289bc2afcaf37a
+Ethereum (ETH) detailed transaction info for 0xee2d36852117d6d2e314f7ba19a640b66c659c296c6fca4638289bc2afcaf37a
+That’s there like 4th try
+Over the last 40 minutes
+
+Jesse [8:15 PM]
+I have no idea why this happens
+
+Troy Linforth [8:15 PM]
+Value:
+7.429420505200594353 Ether ($4,506.61) - [CANCELLED]
+
+Jesse [8:15 PM]
+I saw that but I don't know why if it's not a gas issue
+
+Troy Linforth [8:15 PM]
+Something to do with that users account I’d say, as it’s only individual users, not widespread in anyway
+Okay
+If they did something
+Tell them to do more of it
+Cause it went in
+https://etherscan.io/tx/0x8203a66785969c3811eff772181492c009942f68973ab9f6fe137cd8f48ba53e
+etherscan.io
+Ethereum Transaction 0x8203a66785969c3811eff772181492c009942f68973ab9f6fe137cd8f48ba53e
+Ethereum (ETH) detailed transaction info for 0x8203a66785969c3811eff772181492c009942f68973ab9f6fe137cd8f48ba53e
+
+Jesse [8:20 PM]
+I see
+
+Troy Linforth [8:20 PM]
+He got 4 rejects before it went in
