@@ -1,0 +1,350 @@
+Troy Linforth [10:51 AM]
+Hi Leo, You mentioned you had an issue arise already? If you still need some assistance let me know
+
+Leo [11:43 AM]
+Hey Troy please send Levon a picture of you for the website
+And Jesse a short bio about yourself
+
+Troy Linforth [11:59 AM]
+Levon for the photo, Jesse for the bio
+got it
+sent :+1:
+
+Leo [5:23 AM]
+Hey Troy any update on the telegram bots etc. ?
+
+Troy Linforth [2:52 PM]
+Hey just wanting to confirm this is the telegram chat for the bot to be deployed https://t.me/Elysian_ELY
+
+If someone who’s admin on the group could call up a botfather auth code so you have control and ownership of the bot when we deploy it.
+
+https://core.telegram.org/bots#6-botfather
+
+We’ll attach the bot to the authcode when it’s ready to deploy and ping you when our testing environment is ready to play around with
+Telegram
+Elysian
+Elysian - A Decentralized Platform to Revolutionize Ecommerce Please Be Aware: This group was not created to promote our upcoming TGE. The only purpose of this channel is to interact with our followers throughout the development process.
+core.telegram.org
+Bots: An introduction for developers
+Bots are third-party applications that run inside Telegram. Users can interact with bots by sending them messages, commands…
+https://core.telegram.org/file/811140663/1/uHVzwsRJz3Y/a499733c59840694ca
+
+Leo [9:11 AM]
+can you maybe handle this with the rest of the team
+like kj or levon
+so we can move forward with it
+
+Leo [4:19 PM]
+Troy what are you guys working on?
+Didn’t hear from you for almost 2 weeks?
+
+Troy Linforth [5:10 PM]
+Hey Leo, We’ve been monitoring the domain and telegram while we tool the bot to the required specifications and receive the Bot API key, I’ll speak with both KJ and Levon about the code for when we are ready to go.
+
+We publish a monthly report to your assigned email with any non critical issues but so far we’ve been pretty quite due to the nature of the work, if your not hearing from us or needing to get in touch, our jobs being done :+1::skin-tone-2:
+
+Outside the monthly report we do touch base here and there, but our admin@linhartblockchainconsultants.com email has the dedicated case manager able to respond to any issue or help in any way.
+Also who do we speak with about vetting our draft press release ?
+We’ve got something ready just need your stamp of approval from whomever is responsible for that
+
+Leo [5:48 PM]
+Troy before I reply to your previous text
+So you guys can do our official smart contract audit?
+
+Troy Linforth [6:34 PM]
+Yes we can provide the private audit for the TGE smart contract and token contract
+
+Leo [6:55 PM]
+How long would it take you to complete it?
+
+Troy Linforth [8:07 PM]
+I’ll speak with our smart contract dev team and see what their schedule is like
+
+Leo [12:41 PM]
+How long will it take to complete it?
+We need to launch by Wednesday
+Would be very helpful if we could manage it asap
+
+Troy Linforth [2:38 PM]
+That’s cutting it close but I’ll let you know today, it is live on the testnet yes?
+The token sale contract
+If you have the testnet details can you send them my way please
+
+Troy Linforth [1:54 PM]
+Hey Leo, I’m still waiting to hear back from the team about the TGE contract details but I’ve had my audit team get back to me and to get the audit done before the private sale starts or in 24 hours it is going to require an upfront fee to expedite the process, if that’s not possible the contract audit will take 5-7 days once it’s live on the Ethereum test network.
+
+Either way we’re still waiting on the details of the ropsten contract before anything can begin.
+
+I’ll update you if anything changes and please get back to me on the above, once live if we haven’t gotten a reply we will start the standard audit process immediately.
+
+Leo [3:02 PM]
+I thought that was included as part of your advisory agreement? I mean we are paying 50,000 USD for you services.
+
+Troy Linforth [3:15 PM]
+Under services in the agreement you’ll find the services we are providing and the smart contract audit isn’t under that, we’d spoken previously about contract creation and audits.
+
+We’re able to preform an audit of the TGE smart contract, We’re able to complete it within 5-7 days at no additional cost, it’s just that if you require it expedited and completed before the ICO starts in 24 hours, there will be an additional cost as we’d be reassigning auditors from current projects to meet the start of your ICO.
+
+Leo [3:29 PM]
+Troy is there no way to speed up the process without paying? I mean it should be in your best interest. If we need to push back the project because of the auditing it will just hurt the entire project. So I would really appreciate if you could check if there is a way to speed it up, thanks.
+
+Leo [1:35 PM]
+?
+
+Troy Linforth [5:44 PM]
+I’m still waiting on the contract address from your team before we can begin anything I’ve yet to hear back about any other way to speed it up but We have it ready to go into our pipeline and aim to have it completed within the 5-7 days once your team can provide the details in the group chat requested previously
+
+Leo [6:04 PM]
+check if levons previous message works
+if not please let me know what exactly you would need
+
+Leo [11:29 AM]
+???
+
+Leo [6:20 PM]
+Troy to be honest with you it wont work this way. I expect you to be available at least for a few hours a day if this is not possible for you please let me know because this is not going to work.
+
+Troy Linforth [9:02 PM]
+Leo if theres anything specific or that needs urgent attention I’m available almost 24/7 via telegram in the employee chat and via email at troy@linhartblockchainconsultants.com, the info levon provided is sufficient to begin and we have, Like I advised we are looking at 5-7 days for completion.
+
+Leo [10:44 AM]
+Can you put together a price chart with 3 different stages of security for our bug bounty? Basically everything related to security in an order from easy to hard since people are asking us how much they would get for finding specific bugs.
+
+1,000
+5,000 
+10,000
+
+Troy Linforth [2:45 PM]
+When pricing bounty’s it’s best to not publicly state what bugs reward what bounty.
+
+Structure should look like this;
+
+Low Level (doesn’t impact TGE, User data or user experience)
+Medium Level (doesn’t impact TGE, Impacts user data or user experience)
+High Level (impacts TGE, user data and user experience)
+
+Don’t reveal pricing, “how much if I find this” pricing leads to higher value bugs being found, the “from $xxx” pricing would be best as this allows the base price for small bugs to be set, while allowing you to gauge the nature of the bug and decide on a fair sum on a case by case basis.
+
+I’ll put something together by using the above.
+
+Leo [7:58 PM]
+okay thanks we already had 10 people asking us for it
+
+Leo [10:47 AM]
+Update?
+
+Leo [3:01 PM]
+???
+
+Troy Linforth [9:26 PM]
+Hi Leo, I’ve responded to your recent email, Please get back to me at your earliest convenience and feel free to get in touch via skype if you’d prefer to chat.
+
+Troy Linforth [9:32 PM]
+Hi Leo, Just wanted to let you know we’ve taken further action against another impersonator on Twitter.
+
+We will continue to provide our services until we receive a response to the email sent yesterday, looking forward to speaking soon.
+
+Troy Linforth [10:50 AM]
+Hi Leo, We’ve had another couple of impersonation attempts that we’ve dealt with via Twitter. We will continue to provide our services as We are still awaiting a response to our email, If you could get back to me ASAP it would be greatly appreciated.
+
+Leo [3:47 PM]
+Troy I discussed it with the team and they told me in fact that you helped them with Twitter. My question is can you be more active? Making sure that the team is updated. My concern was/is if we dont hear anything form your site for days we don't know what the situation looks like especially now where it will start with more and more traffic.
+So as long as you can assure me that you will be on it 24/7 it's all good. I just don't want to have any issues where we were too late.
+
+Troy Linforth [9:55 PM]
+We can do some daily updates heading forwards to help make our presence more visible, I’ll make sure to get that addressed immediately.
+
+I’m usually on and checking the various slack channels during the day, But my email gets to me 24/7, And your dedicated support officer is always available at the admin@linhartblockchainconsultants.com email which I’m also CC’d on.
+
+We have noticed uptick in traffic and attempts to impersonate users on Twitter, I’ll need you to  email me some documents we will need to continue the Twitter reporting as they have a process for verifying our authority to act for the @Elysian_ELY Twitter account.
+
+We’ve hit the limit on unverified reports so a statement on a company letterhead stating Linhart Blockchain Consultants Ltd is a service provider authorised to provide reports for Twitter Impersonation attempts for Elysian.
+
+We’ve got two reports pending currently that require the above documents, once provide takedowns should be instant from this point onwards.
+
+Leo [7:30 PM]
+I'll get it to you shortly
+also we have more and more people asking other people in our telegram for money
+
+Troy Linforth [8:08 PM]
+The telegram PM is something as I pointed out in the chat that needs to be user based reporting as Telegram refuse to work with third party’s, I explained a few options to KJ the other day, Continue to publish the message that Admins won’t PM you first and to always check the @ name and use he report if someone messages you pretending to be Elysian staff
+
+Leo [8:08 PM]
+Can you please give me your telegram
+I’ll add you to a chat of us with powerlaunch who takes care of our telegram
+
+Troy Linforth [8:13 PM]
+I do believe I’m in that one currently but I’ll message you on there
+
+Troy Linforth [7:13 PM]
+Hey Leo, Just wanted to update you on the recent few days.
+
+We received the required documents and process the pending takedowns without issue, The next day we had another report and had this one removed almost instantly.
+
+Any more attempts should be easily resolved and taken down.
+
+Troy Linforth [12:05 AM]
+Another impersonator 
+
+Another impersonator 
+
+Hey Leo when you have some time I wanted to speak to you about expanding the team for the ICO security, With the amount of new partnerships it’s drawn even more impersonators to both Elysian and it’s partners we’d like to ensure that there’s extra protection due to the increase in popularity and growth in the community (edited)
+
+Leo [12:20 AM]
+Hey Troy,
+
+What exactly would you recommend?
+
+Troy Linforth [11:55 AM]
+We’d like to bring someone on to supplement the current two members assigned to your project, this would enable us to refocus and be more proactive with impersonation attempts on various platforms, We’d made some allowances to be able to offer this additional staff member with no increase in our fees.
+
+In order to bring another member on, While we wouldn’t require any increase to our fee structure. We would require part payment of minimum 10% of our agreed upon fee as a deposit to allow us to secure a third staff member for your project.
+
+
+Let me know what your thoughts on this are, We are able to continue with the current staff allocation but would prefer to have another set of eyes and hands to assist our team to ensure faster response times and quicker takedowns of impersonators.
+
+Troy Linforth [6:14 PM]
+Another impersonator removed 
+
+
+Troy Linforth [7:49 PM]
+Another one 
+
+
+Troy Linforth [9:33 AM]
+Hey Leo, KJ got in touch about the penetration testing thats been suggested, While im still going over the details KJ gave me, I wanted to suggest that if We went  ahead with expanding the team.
+
+I can assign one of our staff with CPTE qualifications and We can perform the pentest at no additional cost.
+
+Let me know what your thoughts are on this as We’d like to get the ball rolling if indeed We are to conduct the pentesting.
+
+Troy Linforth [12:42 PM]
+Hey Leo I’ve responded to your message on Telegram, I’ll be available over the next few hours to discuss the matter
+
+Troy Linforth [12:37 PM]
+Hey Leo, We are going to need to get together and speak when I return at the end of this week. We have some urgent matters that need to be resolved.
+
+Troy Linforth [12:26 AM]
+I’ll be back in the office Thursday, Leave me with a time for Thursday or Friday when you can take a call to discuss these matters and I’ll get in touch.
+
+If you haven’t gotten back to me by then We’ll need to move forward and resolve these issues without your assistance.
+
+Leo [2:02 AM]
+Troy,
+
+We proposed you an offer which was very beneficial for both sides. If you are trying to get just some more ETH out of us, this only reflects what we were worried about, which is that you might be a scammer trying get some quick money from projects like us. You have already received more than most service providers and provided less work than them, in addition did you charge us 5k for the pentesting while being a security advisor, which was basically again just to get some ETH rather than helping the project. Our current offer stands, and IF you decline, you are absolutely welcome to take a lawyer. We will be having Linhart as a Security Company and you as a Security Advisor at the top of our new Scam section once it goes live, to protect others from the same scenario. We felt that the offer was very fair for both sides showing that you care more about the long term relationship than some quick money but the last couple days is all you do trying to get some ETH out of us.
+We from our side really appreciated your work but right now it looks like that you are just worried about some more ETH than anything else. We proposed to get you even more clients but all you care about is some more ETH, we are really disappointed since we all thought you guys would be different than the rest of the industry scams. It’s not that we didn’t pay you guys, we paid you more than enough for the work you provided and on top of that did we want to make you earn even more, so as you can see are we not thinking the same way you are. Long story short let me know how you would like to process, thanks.
+
+Troy Linforth [4:03 PM]
+Leo,
+
+This isn't the kind of thing a reputable organization does, You signed a service agreement for the services during the ICO.
+You yourself negotiated the price and agreed upon this. You deemed this sufficient for the services outlined. You and another Elysian representative signed the agreement.
+
+We provided the services during the ICO while expanding the scope of work and adding additional services like the penetration testing at no additional cost while requesting part payment of the previously agreed upon fee.
+
+We have attempted to negotiated the total price of the invoice post ICO taking into account the lowered hardcap and market conditions.
+You’ve outlined that our offer of reducing the total invoice amount by 50% is not sufficient and that you require a reduction of almost 70% due to the promise of future work and the monetary gain that would potentially be earned by Linhart due to the listing site.
+
+Anyone who can't currently pay their service providers due to the mismanagement of their finances and is currently attempting to falsely accuse them if they refuse to accept your offer is clearly not someone to be trusted.
+
+You've been ignorant to think that this could be resolved with threats, We have happy customers paying their negotiated fees without any issues, Except for Elysian who, To quote the CFO ”We've put basically everything we have back into marketing”
+
+Then to also quote the CFO ”Paying these invoices in full will compromise the existence of the project”
+
+If you don't think the other providers haven't already spoken about the situation and prepared a response that will show consistently who the real scammer are?
+
+If you would like to take this route please note the following;
+
+Logs and the Blockchain don't lie.
+
+We hold a legally binding service agreement that will be made public.
+
+We have been monitoring the Blockchain and all Elysian addresses since the agreement start date and continue to do so.
+
+We have and will publish the current location and status of the funding Elysian has received to date, Along with the corresponding chat logs that have been progressively downloaded along the way, indicating the status of the platform and team.
+
+This will be enough to invalidate any false accusation and provide validity to our claims and public statement.
+
+Our statement has been made, No further discussion on this will take place.
+
+Leo [7:23 PM]
+Troy, you can absolutely go for such false claims, which will just cause legal actions from our side.
+
+We from our side tried to make it work but you from our side just tried to work out a way to get some more ETH,  we changed the hardcap from 19m to 7m, and made some payments before, how exactly can you claim that you didn’t get paid? You could make such claims you wouldn’t have get paid anything but we all know that you charged us for a service which brought us absolutely nothing just to get out another 5,000.
+
+Long story short, we from our side tried to make it work in a fair way AFTER paying you more than enough for your services. So yes IF we hear any false claims and accusations, we will just involve our lawyer to sort that out.
+
+Leo [7:34 PM]
+You should keep in mind that when you get on board as an advisor its in your best interest to help the project. It’s not about trying to get as much money as you can. Everything you say would make sense if we would not have paid you but you are forgetting that we paid you a fair amount after changing the hardcap by over 50%. So just because you need more money it doesnt mean that you can make such false claims. Also keep in mind that at the very beginning you barely did anything and I had to explain you that we need to stop if it doesnt change, however did we still pay because things changed, so not sure what makes you think all these things, so it must simply be because you care about nothing but the money because otherwise you would have understood that you got paid, again you got paid more than enough for the work you have done, so all you say is just you showing us that you care about nothing but to get some more money in.
+
+Troy Linforth [7:40 PM]
+You reduced the hard cap by 50% and We offered to reduce the total amount you negotiated by 50%, We are not willing to reduce the fee below this amount regardless of any promise of future work.
+
+We had been open to working with you towards a resolution before Jesse began displaying how unprofessional things had become behind the scenes.
+
+Once you and Jesse resorted to threats in order to have your invoice voided, Our decision on how to move forward was made.
+
+slackbot [7:41 PM]
+Ok! I’ve deleted the reminder about this message from @Leo ("You should keep...").
+
+Leo [7:43 PM]
+Troy, again look how much % is 7m from 19m? How much % did we pay you from the initial invoice?
+
+Troy Linforth [7:45 PM]
+You have paid less or equal to 30% of the amount you negotiated.
+A reduction of 70% isn't feasible Leo.
+The most We can reduce it by is 50%.
+This is fair given the market conditions and the reduced hard cap.
+
+What is in no way fair is you and your CFO claiming that if we refuse to accept this reduction, That he will "bury us" because "he has nothing" (edited)
+
+Leo [7:50 PM]
+Troy, 7m is 37% out of 19m. 18,500 is 37% out of 50,000. So again as an advisor it should be in your best interest to help the project and not to care about nothing but your payment. If we would not have made any payment until now you could absolutely say these things but I think you don’t realize that we made payments to you while getting charged 5,000 for something which was not important from an advisor which is supposed to help a project, so how can you explain that? I even wrote in my last message I appreciate the work you have done and tried to work out a way with you guys because I believed that it’s not what I think and that you care about more than just your payment.
+Troy, 7m is 37% out of 19m. 18,500 is 37% out of 50,000. While this is slightly more than you got paid keep in mind that with a lower hardcap it’s harder for a project like us to make unnecessary payments, this being said again, as an advisor you should care about the project nothing but the projects future because you join as an advisor. So if you tell me that a few thousand USD, are more important to you, we both know why. (edited)
+Also I never wrote such thing, so there is no need to say you and your CFO, at least let’s stay professional and not make false claims when discussing such matter.
+I mean, just explain me following: We paid you 15,000 USD, as mentioned above is 18,500 the % you should receive from the new hardcap of 7m USD, so are you honestly telling me that your problem is that 3,500 USD? Or are you telling me that you want/need more money than that? Because I might misunderstand but the offer Jesse gave you was worth much more than 3,500, so perhaps there is something I am missing?
+
+Leo [8:01 PM]
+I mean I don’t need to explain someone professional like you that going public with such information, chat logs, and false claims is a big thing, which can cause a lot of heavy legal actions against you and your company so I mean the reputation Lindhardt must be more important than such a small payment, so I assume there must be more to it, so please explain so I know what the exact issue here is.
+
+Troy Linforth [8:06 PM]
+Leo, At this point, The fact You personally negotiated the agreement price and have attempted now to have it reduced beyond an amount that is acceptable and within reason, While claiming that Us enforcing our agreement is an indication that We are scammers has resulted in the action We are being forced to take.
+
+Our payment price was not tied to the hardcap or softcap.
+
+
+The misunderstanding is that had Elysian provided this stipulation that in the event of lowering the hard cap a reduction in the fee would be given during negotiations, The absoulte lowest our price would of been is $25,000 USD paid at the end of the ICO.
+
+For the services, Compute time, staff and other resources, This is the absolute minimum We would need to  charge for it to be viable for us to deliver our service effectively.
+
+Troy Linforth [8:12 PM]
+Do you not understand that the amount your asking us to reduce it by is not feasible?
+
+We have relayed that not only with expanding the scope of work but continuing the work outside the previously agreed end date 50% of the total invoice amount is the minimum We would need to void the remainder of the invoice regardless of any future partnership.
+
+Leo [8:13 PM]
+That is also not true, someone who joins as an advisor, shouldn’t think this way because as you can see with your last message are you just thinking about your side. What about the project you are supposed to advise? On top of that do I not understand following: If you say $25,000, this means you are talking about a remaining $10,000 the offer Jesse gave you was worth much more, with taking the action you took, you basically made sure to reduce that to 0 and to pay on top of that legal fees to defend your company, so you can’t tell me that this would be reason enough to reduce the payment to 0 and to pay on top of that, so that’s why I am asking if there is more to it than I know?
+
+Troy Linforth [8:14 PM]
+What offer from Jesse?
+The offer of future work?
+The only offer from Jesse has been to void the complete remainder of the contract and provide services to cryptoverse clients and exclusive listing for 3 months, and if We reject that offer then be labeled as "Scammers"
+
+Leo [8:18 PM]
+I think there was some sort of miscommunication regarding the offer because the offer was nothing but fair to both sides.
+
+Leo [8:23 PM]
+As mentioned above did we pay enough after changing the hardcap, HOWEVER, did we understood that it would be perhaps bad if you would not get any benefit after us changing the hardcap, so we put together a deal which brings you future work in terms of projects paying much more than the $10,000 you are asking for. Future work does not mean in years from now we already had 1-2 projects asking to get started in around 45-60 days. So for us the moment when we said ‘scammer’ is when you made clear that for you it’s more important to get paid anything possible right now than accepting the deal, waiting at least some time, to get paid much more. And let me repeat this we did pay you and made you an offer to get you even more work because as mentioned yesterday did we appreciate your work but it obviously looks to us like a ‘scam’ if you just want to get paid anything possible right now rather than, understanding that you need to care about the project being an advisor, and you should be thinking longterm and not short term, with the mentality you better get anything you can before it’s too late.
+This is why I absolutely can’t understand how you can go from such offer which benefits you that much, to making such false claims, reducing the payment to 0, and to pay so many legal fees on top of that. This is why I just have to think there must be more to it than I know.
+
+Troy Linforth [8:37 PM]
+Future work doesn't guarantee anything Leo, You or I can't predict the market conditions in a few months from now, This is why We offered to reduce our fee to an amount that is fair which enables our basic costs to be covered from the Elysian deployment.
+
+Clients of the Elysian platform shouldn't be leveraged to pay your own bills and debts that you owe from the ICO period.
+
+You can't understand this Leo as you aren't looking out for our interests as its not your responsibility.
+
+It is however my responsibility to ensure that any agreement We make is either honored, Or negotiated to a resolution that's beneficial to both parties.
+
+Its also my responsibility to ensure that When threats are made towards Linhart, That these are taken seriously and dealt with swift.
